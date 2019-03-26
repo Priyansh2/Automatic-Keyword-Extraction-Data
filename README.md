@@ -62,6 +62,7 @@ Below is a an example of reference file format:
 | 500N-KPCrowd [7]       | en   | News         | 450   | -   | 50   | R           | 46.2       | 465.3         |
 | 110-PT-BN-KP [12]      | pt   | News         | 100   | -   | 10   | R           | 27.6       | 439.4         |
 | Wikinews-Keyphrase [8] | fr   | News         | -     | -   | 100  | R           | 9.7        | 313.6         |
+| Wan2008 [16]           | en   |              |       |     |      |             |            |               |
 
 
 Annotation for gold keyphrases are performed by authors (A), readers (R) or
@@ -141,3 +142,7 @@ professional indexers (I).
 15. **Deep Keyphrase Generation.**
     R. Meng, S. Zhao, S. Han, D. He, P. Brusilovsky, Y. Chi.
     *In Proceedings of ACL 2017*
+    
+16. **CollabRank: Towards a Collaborative Approach to Single-Document Keyphrase Extraction.**
+    Xiaojun Wan and Jianguo Xiao.
+    *Proceedings of 22nd International Conference on Computational Linguistics 2008*
