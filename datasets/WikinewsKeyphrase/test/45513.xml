@@ -1,0 +1,2767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <docId>45513.txt</docId>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Informatique</word>
+            <lemma>informatique</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="2">
+            <word>:</word>
+            <lemma>:</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="3">
+            <word>Sortie</word>
+            <lemma>sortie</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="4">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="5">
+            <word>une</word>
+            <lemma>une</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="6">
+            <word>nouvelle</word>
+            <lemma>nouvelle</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="7">
+            <word>version</word>
+            <lemma>version</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="8">
+            <word>12.10</word>
+            <lemma>12.10</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="9">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="10">
+            <word>Ubuntu</word>
+            <lemma>ubuntu</lemma>
+            <CharacterOffsetBegin>53</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>Qu'</word>
+            <lemma>qu'</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="2">
+            <word>est</word>
+            <lemma>est</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="3">
+            <word>-ce</word>
+            <lemma>-ce</lemma>
+            <CharacterOffsetBegin>67</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="4">
+            <word>qu'</word>
+            <lemma>qu'</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="5">
+            <word>Ubuntu</word>
+            <lemma>ubuntu</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>80</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="3">
+        <tokens>
+          <token id="1">
+            <word>Ubuntu</word>
+            <lemma>ubuntu</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="2">
+            <word>est</word>
+            <lemma>est</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="3">
+            <word>un</word>
+            <lemma>un</lemma>
+            <CharacterOffsetBegin>94</CharacterOffsetBegin>
+            <CharacterOffsetEnd>96</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="4">
+            <word>système</word>
+            <lemma>système</lemma>
+            <CharacterOffsetBegin>97</CharacterOffsetBegin>
+            <CharacterOffsetEnd>104</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="5">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>107</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="6">
+            <word>exploitation</word>
+            <lemma>exploitation</lemma>
+            <CharacterOffsetBegin>107</CharacterOffsetBegin>
+            <CharacterOffsetEnd>119</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="7">
+            <word>libre</word>
+            <lemma>libre</lemma>
+            <CharacterOffsetBegin>120</CharacterOffsetBegin>
+            <CharacterOffsetEnd>125</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="8">
+            <word>dérivé</word>
+            <lemma>dérivé</lemma>
+            <CharacterOffsetBegin>126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>132</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="9">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>133</CharacterOffsetBegin>
+            <CharacterOffsetEnd>134</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="10">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>134</CharacterOffsetBegin>
+            <CharacterOffsetEnd>135</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="11">
+            <word>système</word>
+            <lemma>système</lemma>
+            <CharacterOffsetBegin>136</CharacterOffsetBegin>
+            <CharacterOffsetEnd>143</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="12">
+            <word>Debian</word>
+            <lemma>debian</lemma>
+            <CharacterOffsetBegin>144</CharacterOffsetBegin>
+            <CharacterOffsetEnd>150</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="13">
+            <word>et</word>
+            <lemma>et</lemma>
+            <CharacterOffsetBegin>151</CharacterOffsetBegin>
+            <CharacterOffsetEnd>153</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="14">
+            <word>incluant</word>
+            <lemma>incluant</lemma>
+            <CharacterOffsetBegin>154</CharacterOffsetBegin>
+            <CharacterOffsetEnd>162</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="15">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>163</CharacterOffsetBegin>
+            <CharacterOffsetEnd>165</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="16">
+            <word>noyau</word>
+            <lemma>noyau</lemma>
+            <CharacterOffsetBegin>166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>171</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="17">
+            <word>Linux</word>
+            <lemma>linux</lemma>
+            <CharacterOffsetBegin>172</CharacterOffsetBegin>
+            <CharacterOffsetEnd>177</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="18">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>177</CharacterOffsetBegin>
+            <CharacterOffsetEnd>178</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="4">
+        <tokens>
+          <token id="1">
+            <word>Il</word>
+            <lemma>il</lemma>
+            <CharacterOffsetBegin>179</CharacterOffsetBegin>
+            <CharacterOffsetEnd>181</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="2">
+            <word>se</word>
+            <lemma>se</lemma>
+            <CharacterOffsetBegin>182</CharacterOffsetBegin>
+            <CharacterOffsetEnd>184</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="3">
+            <word>veut</word>
+            <lemma>veut</lemma>
+            <CharacterOffsetBegin>185</CharacterOffsetBegin>
+            <CharacterOffsetEnd>189</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="4">
+            <word>une</word>
+            <lemma>une</lemma>
+            <CharacterOffsetBegin>190</CharacterOffsetBegin>
+            <CharacterOffsetEnd>193</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="5">
+            <word>distribution</word>
+            <lemma>distribution</lemma>
+            <CharacterOffsetBegin>194</CharacterOffsetBegin>
+            <CharacterOffsetEnd>206</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="6">
+            <word>orientée</word>
+            <lemma>orientée</lemma>
+            <CharacterOffsetBegin>207</CharacterOffsetBegin>
+            <CharacterOffsetEnd>215</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="7">
+            <word>"</word>
+            <lemma>"</lemma>
+            <CharacterOffsetBegin>216</CharacterOffsetBegin>
+            <CharacterOffsetEnd>217</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="8">
+            <word>grand</word>
+            <lemma>grand</lemma>
+            <CharacterOffsetBegin>218</CharacterOffsetBegin>
+            <CharacterOffsetEnd>223</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="9">
+            <word>public</word>
+            <lemma>public</lemma>
+            <CharacterOffsetBegin>224</CharacterOffsetBegin>
+            <CharacterOffsetEnd>230</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="10">
+            <word>"</word>
+            <lemma>"</lemma>
+            <CharacterOffsetBegin>231</CharacterOffsetBegin>
+            <CharacterOffsetEnd>232</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="11">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>232</CharacterOffsetBegin>
+            <CharacterOffsetEnd>233</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="12">
+            <word>alternative</word>
+            <lemma>alternative</lemma>
+            <CharacterOffsetBegin>234</CharacterOffsetBegin>
+            <CharacterOffsetEnd>245</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="13">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>246</CharacterOffsetBegin>
+            <CharacterOffsetEnd>247</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="14">
+            <word>les</word>
+            <lemma>les</lemma>
+            <CharacterOffsetBegin>247</CharacterOffsetBegin>
+            <CharacterOffsetEnd>249</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="15">
+            <word>systèmes</word>
+            <lemma>systèmes</lemma>
+            <CharacterOffsetBegin>250</CharacterOffsetBegin>
+            <CharacterOffsetEnd>258</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="16">
+            <word>propriétaires</word>
+            <lemma>propriétaires</lemma>
+            <CharacterOffsetBegin>259</CharacterOffsetBegin>
+            <CharacterOffsetEnd>272</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="17">
+            <word>Windows</word>
+            <lemma>windows</lemma>
+            <CharacterOffsetBegin>273</CharacterOffsetBegin>
+            <CharacterOffsetEnd>280</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="18">
+            <word>et</word>
+            <lemma>et</lemma>
+            <CharacterOffsetBegin>281</CharacterOffsetBegin>
+            <CharacterOffsetEnd>283</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="19">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>284</CharacterOffsetBegin>
+            <CharacterOffsetEnd>286</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="20">
+            <word>Mac</word>
+            <lemma>mac</lemma>
+            <CharacterOffsetBegin>287</CharacterOffsetBegin>
+            <CharacterOffsetEnd>290</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="21">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>290</CharacterOffsetBegin>
+            <CharacterOffsetEnd>291</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="22">
+            <word>principalement</word>
+            <lemma>principalement</lemma>
+            <CharacterOffsetBegin>292</CharacterOffsetBegin>
+            <CharacterOffsetEnd>306</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="23">
+            <word>constituée</word>
+            <lemma>constituée</lemma>
+            <CharacterOffsetBegin>307</CharacterOffsetBegin>
+            <CharacterOffsetEnd>317</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="24">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>318</CharacterOffsetBegin>
+            <CharacterOffsetEnd>320</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="25">
+            <word>logiciels</word>
+            <lemma>logiciels</lemma>
+            <CharacterOffsetBegin>321</CharacterOffsetBegin>
+            <CharacterOffsetEnd>330</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="26">
+            <word>libres</word>
+            <lemma>libres</lemma>
+            <CharacterOffsetBegin>331</CharacterOffsetBegin>
+            <CharacterOffsetEnd>337</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="27">
+            <word>sous</word>
+            <lemma>sous</lemma>
+            <CharacterOffsetBegin>338</CharacterOffsetBegin>
+            <CharacterOffsetEnd>342</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="28">
+            <word>licence</word>
+            <lemma>licence</lemma>
+            <CharacterOffsetBegin>343</CharacterOffsetBegin>
+            <CharacterOffsetEnd>350</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="29">
+            <word>GNU</word>
+            <lemma>gnu</lemma>
+            <CharacterOffsetBegin>351</CharacterOffsetBegin>
+            <CharacterOffsetEnd>354</CharacterOffsetEnd>
+            <POS>X</POS>
+          </token>
+          <token id="30">
+            <word>GPL</word>
+            <lemma>gpl</lemma>
+            <CharacterOffsetBegin>355</CharacterOffsetBegin>
+            <CharacterOffsetEnd>358</CharacterOffsetEnd>
+            <POS>X</POS>
+          </token>
+          <token id="31">
+            <word>que</word>
+            <lemma>que</lemma>
+            <CharacterOffsetBegin>359</CharacterOffsetBegin>
+            <CharacterOffsetEnd>362</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="32">
+            <word>chacun</word>
+            <lemma>chacun</lemma>
+            <CharacterOffsetBegin>363</CharacterOffsetBegin>
+            <CharacterOffsetEnd>369</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="33">
+            <word>peut</word>
+            <lemma>peut</lemma>
+            <CharacterOffsetBegin>370</CharacterOffsetBegin>
+            <CharacterOffsetEnd>374</CharacterOffsetEnd>
+            <POS>AUX</POS>
+          </token>
+          <token id="34">
+            <word>modifier</word>
+            <lemma>modifier</lemma>
+            <CharacterOffsetBegin>375</CharacterOffsetBegin>
+            <CharacterOffsetEnd>383</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="35">
+            <word>et</word>
+            <lemma>et</lemma>
+            <CharacterOffsetBegin>384</CharacterOffsetBegin>
+            <CharacterOffsetEnd>386</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="36">
+            <word>l'</word>
+            <lemma>l'</lemma>
+            <CharacterOffsetBegin>387</CharacterOffsetBegin>
+            <CharacterOffsetEnd>389</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="37">
+            <word>améliorer</word>
+            <lemma>améliorer</lemma>
+            <CharacterOffsetBegin>389</CharacterOffsetBegin>
+            <CharacterOffsetEnd>398</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="38">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>398</CharacterOffsetBegin>
+            <CharacterOffsetEnd>399</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="5">
+        <tokens>
+          <token id="1">
+            <word>Mais</word>
+            <lemma>mais</lemma>
+            <CharacterOffsetBegin>400</CharacterOffsetBegin>
+            <CharacterOffsetEnd>404</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="2">
+            <word>Ubuntu</word>
+            <lemma>ubuntu</lemma>
+            <CharacterOffsetBegin>405</CharacterOffsetBegin>
+            <CharacterOffsetEnd>411</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="3">
+            <word>n'</word>
+            <lemma>n'</lemma>
+            <CharacterOffsetBegin>412</CharacterOffsetBegin>
+            <CharacterOffsetEnd>414</CharacterOffsetEnd>
+            <POS>PART</POS>
+          </token>
+          <token id="4">
+            <word>inclut</word>
+            <lemma>inclut</lemma>
+            <CharacterOffsetBegin>414</CharacterOffsetBegin>
+            <CharacterOffsetEnd>420</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="5">
+            <word>pas</word>
+            <lemma>pas</lemma>
+            <CharacterOffsetBegin>421</CharacterOffsetBegin>
+            <CharacterOffsetEnd>424</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="6">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>425</CharacterOffsetBegin>
+            <CharacterOffsetEnd>427</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="7">
+            <word>paquets</word>
+            <lemma>paquets</lemma>
+            <CharacterOffsetBegin>428</CharacterOffsetBegin>
+            <CharacterOffsetEnd>435</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="8">
+            <word>non-libres</word>
+            <lemma>non-libres</lemma>
+            <CharacterOffsetBegin>436</CharacterOffsetBegin>
+            <CharacterOffsetEnd>446</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="9">
+            <word>sur</word>
+            <lemma>sur</lemma>
+            <CharacterOffsetBegin>447</CharacterOffsetBegin>
+            <CharacterOffsetEnd>450</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="10">
+            <word>ces</word>
+            <lemma>ces</lemma>
+            <CharacterOffsetBegin>451</CharacterOffsetBegin>
+            <CharacterOffsetEnd>454</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="11">
+            <word>Live</word>
+            <lemma>live</lemma>
+            <CharacterOffsetBegin>455</CharacterOffsetBegin>
+            <CharacterOffsetEnd>459</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="12">
+            <word>CD</word>
+            <lemma>cd</lemma>
+            <CharacterOffsetBegin>460</CharacterOffsetBegin>
+            <CharacterOffsetEnd>462</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="13">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>462</CharacterOffsetBegin>
+            <CharacterOffsetEnd>463</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="14">
+            <word>principalement</word>
+            <lemma>principalement</lemma>
+            <CharacterOffsetBegin>464</CharacterOffsetBegin>
+            <CharacterOffsetEnd>478</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="15">
+            <word>pour</word>
+            <lemma>pour</lemma>
+            <CharacterOffsetBegin>479</CharacterOffsetBegin>
+            <CharacterOffsetEnd>483</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="16">
+            <word>des</word>
+            <lemma>des</lemma>
+            <CharacterOffsetBegin>484</CharacterOffsetBegin>
+            <CharacterOffsetEnd>487</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="17">
+            <word>raisons</word>
+            <lemma>raisons</lemma>
+            <CharacterOffsetBegin>488</CharacterOffsetBegin>
+            <CharacterOffsetEnd>495</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="18">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>496</CharacterOffsetBegin>
+            <CharacterOffsetEnd>498</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="19">
+            <word>droits</word>
+            <lemma>droits</lemma>
+            <CharacterOffsetBegin>499</CharacterOffsetBegin>
+            <CharacterOffsetEnd>505</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="20">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>506</CharacterOffsetBegin>
+            <CharacterOffsetEnd>508</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="21">
+            <word>auteur</word>
+            <lemma>auteur</lemma>
+            <CharacterOffsetBegin>508</CharacterOffsetBegin>
+            <CharacterOffsetEnd>514</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="22">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>514</CharacterOffsetBegin>
+            <CharacterOffsetEnd>515</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="23">
+            <word>que</word>
+            <lemma>que</lemma>
+            <CharacterOffsetBegin>516</CharacterOffsetBegin>
+            <CharacterOffsetEnd>519</CharacterOffsetEnd>
+            <POS>SCONJ</POS>
+          </token>
+          <token id="24">
+            <word>l'</word>
+            <lemma>l'</lemma>
+            <CharacterOffsetBegin>520</CharacterOffsetBegin>
+            <CharacterOffsetEnd>522</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="25">
+            <word>utilisateur</word>
+            <lemma>utilisateur</lemma>
+            <CharacterOffsetBegin>522</CharacterOffsetBegin>
+            <CharacterOffsetEnd>533</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="26">
+            <word>est</word>
+            <lemma>est</lemma>
+            <CharacterOffsetBegin>534</CharacterOffsetBegin>
+            <CharacterOffsetEnd>537</CharacterOffsetEnd>
+            <POS>AUX</POS>
+          </token>
+          <token id="27">
+            <word>obligé</word>
+            <lemma>obligé</lemma>
+            <CharacterOffsetBegin>538</CharacterOffsetBegin>
+            <CharacterOffsetEnd>544</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="28">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>545</CharacterOffsetBegin>
+            <CharacterOffsetEnd>547</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="29">
+            <word>les</word>
+            <lemma>les</lemma>
+            <CharacterOffsetBegin>548</CharacterOffsetBegin>
+            <CharacterOffsetEnd>551</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="30">
+            <word>télécharger</word>
+            <lemma>télécharger</lemma>
+            <CharacterOffsetBegin>552</CharacterOffsetBegin>
+            <CharacterOffsetEnd>563</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="31">
+            <word>depuis</word>
+            <lemma>depuis</lemma>
+            <CharacterOffsetBegin>564</CharacterOffsetBegin>
+            <CharacterOffsetEnd>570</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="32">
+            <word>la</word>
+            <lemma>la</lemma>
+            <CharacterOffsetBegin>571</CharacterOffsetBegin>
+            <CharacterOffsetEnd>573</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="33">
+            <word>toile</word>
+            <lemma>toile</lemma>
+            <CharacterOffsetBegin>574</CharacterOffsetBegin>
+            <CharacterOffsetEnd>579</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="34">
+            <word>afin</word>
+            <lemma>afin</lemma>
+            <CharacterOffsetBegin>580</CharacterOffsetBegin>
+            <CharacterOffsetEnd>584</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="35">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>585</CharacterOffsetBegin>
+            <CharacterOffsetEnd>587</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="36">
+            <word>obtenir</word>
+            <lemma>obtenir</lemma>
+            <CharacterOffsetBegin>587</CharacterOffsetBegin>
+            <CharacterOffsetEnd>594</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="37">
+            <word>des</word>
+            <lemma>des</lemma>
+            <CharacterOffsetBegin>595</CharacterOffsetBegin>
+            <CharacterOffsetEnd>598</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="38">
+            <word>fonctions</word>
+            <lemma>fonctions</lemma>
+            <CharacterOffsetBegin>599</CharacterOffsetBegin>
+            <CharacterOffsetEnd>608</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="39">
+            <word>essentielles</word>
+            <lemma>essentielles</lemma>
+            <CharacterOffsetBegin>609</CharacterOffsetBegin>
+            <CharacterOffsetEnd>621</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="40">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>621</CharacterOffsetBegin>
+            <CharacterOffsetEnd>622</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="41">
+            <word>par</word>
+            <lemma>par</lemma>
+            <CharacterOffsetBegin>623</CharacterOffsetBegin>
+            <CharacterOffsetEnd>626</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="42">
+            <word>exemple</word>
+            <lemma>exemple</lemma>
+            <CharacterOffsetBegin>627</CharacterOffsetBegin>
+            <CharacterOffsetEnd>634</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="43">
+            <word>pour</word>
+            <lemma>pour</lemma>
+            <CharacterOffsetBegin>635</CharacterOffsetBegin>
+            <CharacterOffsetEnd>639</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="44">
+            <word>lire</word>
+            <lemma>lire</lemma>
+            <CharacterOffsetBegin>640</CharacterOffsetBegin>
+            <CharacterOffsetEnd>644</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="45">
+            <word>des</word>
+            <lemma>des</lemma>
+            <CharacterOffsetBegin>645</CharacterOffsetBegin>
+            <CharacterOffsetEnd>648</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="46">
+            <word>fichiers</word>
+            <lemma>fichiers</lemma>
+            <CharacterOffsetBegin>649</CharacterOffsetBegin>
+            <CharacterOffsetEnd>657</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="47">
+            <word>audio</word>
+            <lemma>audio</lemma>
+            <CharacterOffsetBegin>658</CharacterOffsetBegin>
+            <CharacterOffsetEnd>663</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="48">
+            <word>MP</word>
+            <lemma>mp</lemma>
+            <CharacterOffsetBegin>664</CharacterOffsetBegin>
+            <CharacterOffsetEnd>666</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="49">
+            <word>3</word>
+            <lemma>3</lemma>
+            <CharacterOffsetBegin>666</CharacterOffsetBegin>
+            <CharacterOffsetEnd>667</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="50">
+            <word>ou</word>
+            <lemma>ou</lemma>
+            <CharacterOffsetBegin>668</CharacterOffsetBegin>
+            <CharacterOffsetEnd>670</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="51">
+            <word>regarder</word>
+            <lemma>regarder</lemma>
+            <CharacterOffsetBegin>671</CharacterOffsetBegin>
+            <CharacterOffsetEnd>679</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="52">
+            <word>des</word>
+            <lemma>des</lemma>
+            <CharacterOffsetBegin>680</CharacterOffsetBegin>
+            <CharacterOffsetEnd>683</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="53">
+            <word>DVD</word>
+            <lemma>dvd</lemma>
+            <CharacterOffsetBegin>684</CharacterOffsetBegin>
+            <CharacterOffsetEnd>687</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="54">
+            <word>protégés</word>
+            <lemma>protégés</lemma>
+            <CharacterOffsetBegin>688</CharacterOffsetBegin>
+            <CharacterOffsetEnd>696</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="55">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>696</CharacterOffsetBegin>
+            <CharacterOffsetEnd>697</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="56">
+            <word>en</word>
+            <lemma>en</lemma>
+            <CharacterOffsetBegin>698</CharacterOffsetBegin>
+            <CharacterOffsetEnd>700</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="57">
+            <word>fonction</word>
+            <lemma>fonction</lemma>
+            <CharacterOffsetBegin>701</CharacterOffsetBegin>
+            <CharacterOffsetEnd>709</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="58">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>710</CharacterOffsetBegin>
+            <CharacterOffsetEnd>712</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="59">
+            <word>la</word>
+            <lemma>la</lemma>
+            <CharacterOffsetBegin>713</CharacterOffsetBegin>
+            <CharacterOffsetEnd>715</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="60">
+            <word>législation</word>
+            <lemma>législation</lemma>
+            <CharacterOffsetBegin>716</CharacterOffsetBegin>
+            <CharacterOffsetEnd>727</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="61">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>728</CharacterOffsetBegin>
+            <CharacterOffsetEnd>730</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="62">
+            <word>son</word>
+            <lemma>son</lemma>
+            <CharacterOffsetBegin>731</CharacterOffsetBegin>
+            <CharacterOffsetEnd>734</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="63">
+            <word>pays</word>
+            <lemma>pays</lemma>
+            <CharacterOffsetBegin>735</CharacterOffsetBegin>
+            <CharacterOffsetEnd>739</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="64">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>739</CharacterOffsetBegin>
+            <CharacterOffsetEnd>740</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="6">
+        <tokens>
+          <token id="1">
+            <word>Le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>741</CharacterOffsetBegin>
+            <CharacterOffsetEnd>743</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="2">
+            <word>système</word>
+            <lemma>système</lemma>
+            <CharacterOffsetBegin>744</CharacterOffsetBegin>
+            <CharacterOffsetEnd>751</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="3">
+            <word>est</word>
+            <lemma>est</lemma>
+            <CharacterOffsetBegin>752</CharacterOffsetBegin>
+            <CharacterOffsetEnd>755</CharacterOffsetEnd>
+            <POS>AUX</POS>
+          </token>
+          <token id="4">
+            <word>conçu</word>
+            <lemma>conçu</lemma>
+            <CharacterOffsetBegin>756</CharacterOffsetBegin>
+            <CharacterOffsetEnd>761</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="5">
+            <word>pour</word>
+            <lemma>pour</lemma>
+            <CharacterOffsetBegin>762</CharacterOffsetBegin>
+            <CharacterOffsetEnd>766</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="6">
+            <word>les</word>
+            <lemma>les</lemma>
+            <CharacterOffsetBegin>767</CharacterOffsetBegin>
+            <CharacterOffsetEnd>770</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="7">
+            <word>ordinateurs</word>
+            <lemma>ordinateurs</lemma>
+            <CharacterOffsetBegin>771</CharacterOffsetBegin>
+            <CharacterOffsetEnd>782</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="8">
+            <word>portables</word>
+            <lemma>portables</lemma>
+            <CharacterOffsetBegin>783</CharacterOffsetBegin>
+            <CharacterOffsetEnd>792</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>792</CharacterOffsetBegin>
+            <CharacterOffsetEnd>793</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="10">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>794</CharacterOffsetBegin>
+            <CharacterOffsetEnd>796</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="11">
+            <word>bureau</word>
+            <lemma>bureau</lemma>
+            <CharacterOffsetBegin>797</CharacterOffsetBegin>
+            <CharacterOffsetEnd>803</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="12">
+            <word>et</word>
+            <lemma>et</lemma>
+            <CharacterOffsetBegin>804</CharacterOffsetBegin>
+            <CharacterOffsetEnd>806</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="13">
+            <word>les</word>
+            <lemma>les</lemma>
+            <CharacterOffsetBegin>807</CharacterOffsetBegin>
+            <CharacterOffsetEnd>810</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="14">
+            <word>netbooks</word>
+            <lemma>netbooks</lemma>
+            <CharacterOffsetBegin>811</CharacterOffsetBegin>
+            <CharacterOffsetEnd>819</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="15">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>819</CharacterOffsetBegin>
+            <CharacterOffsetEnd>820</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="16">
+            <word>mais</word>
+            <lemma>mais</lemma>
+            <CharacterOffsetBegin>821</CharacterOffsetBegin>
+            <CharacterOffsetEnd>825</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="17">
+            <word>il</word>
+            <lemma>il</lemma>
+            <CharacterOffsetBegin>826</CharacterOffsetBegin>
+            <CharacterOffsetEnd>828</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="18">
+            <word>existe</word>
+            <lemma>existe</lemma>
+            <CharacterOffsetBegin>829</CharacterOffsetBegin>
+            <CharacterOffsetEnd>835</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="19">
+            <word>aussi</word>
+            <lemma>aussi</lemma>
+            <CharacterOffsetBegin>836</CharacterOffsetBegin>
+            <CharacterOffsetEnd>841</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="20">
+            <word>une</word>
+            <lemma>une</lemma>
+            <CharacterOffsetBegin>842</CharacterOffsetBegin>
+            <CharacterOffsetEnd>845</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="21">
+            <word>version</word>
+            <lemma>version</lemma>
+            <CharacterOffsetBegin>846</CharacterOffsetBegin>
+            <CharacterOffsetEnd>853</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="22">
+            <word>pour</word>
+            <lemma>pour</lemma>
+            <CharacterOffsetBegin>854</CharacterOffsetBegin>
+            <CharacterOffsetEnd>858</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="23">
+            <word>les</word>
+            <lemma>les</lemma>
+            <CharacterOffsetBegin>859</CharacterOffsetBegin>
+            <CharacterOffsetEnd>862</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="24">
+            <word>serveurs</word>
+            <lemma>serveurs</lemma>
+            <CharacterOffsetBegin>863</CharacterOffsetBegin>
+            <CharacterOffsetEnd>871</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="25">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>871</CharacterOffsetBegin>
+            <CharacterOffsetEnd>872</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="7">
+        <tokens>
+          <token id="1">
+            <word>Plus</word>
+            <lemma>plus</lemma>
+            <CharacterOffsetBegin>873</CharacterOffsetBegin>
+            <CharacterOffsetEnd>877</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="2">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>878</CharacterOffsetBegin>
+            <CharacterOffsetEnd>880</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="3">
+            <word>25</word>
+            <lemma>25</lemma>
+            <CharacterOffsetBegin>881</CharacterOffsetBegin>
+            <CharacterOffsetEnd>883</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="4">
+            <word>millions</word>
+            <lemma>millions</lemma>
+            <CharacterOffsetBegin>884</CharacterOffsetBegin>
+            <CharacterOffsetEnd>892</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="5">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>893</CharacterOffsetBegin>
+            <CharacterOffsetEnd>895</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="6">
+            <word>utilisateurs</word>
+            <lemma>utilisateurs</lemma>
+            <CharacterOffsetBegin>895</CharacterOffsetBegin>
+            <CharacterOffsetEnd>907</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="7">
+            <word>utilisent</word>
+            <lemma>utilisent</lemma>
+            <CharacterOffsetBegin>908</CharacterOffsetBegin>
+            <CharacterOffsetEnd>917</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="8">
+            <word>Ubuntu</word>
+            <lemma>ubuntu</lemma>
+            <CharacterOffsetBegin>918</CharacterOffsetBegin>
+            <CharacterOffsetEnd>924</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="9">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>925</CharacterOffsetBegin>
+            <CharacterOffsetEnd>926</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="10">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>926</CharacterOffsetBegin>
+            <CharacterOffsetEnd>927</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="11">
+            <word>quotidien</word>
+            <lemma>quotidien</lemma>
+            <CharacterOffsetBegin>928</CharacterOffsetBegin>
+            <CharacterOffsetEnd>937</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="12">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>938</CharacterOffsetBegin>
+            <CharacterOffsetEnd>939</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="13">
+            <word>travers</word>
+            <lemma>travers</lemma>
+            <CharacterOffsetBegin>940</CharacterOffsetBegin>
+            <CharacterOffsetEnd>947</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="14">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>948</CharacterOffsetBegin>
+            <CharacterOffsetEnd>950</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="15">
+            <word>monde</word>
+            <lemma>monde</lemma>
+            <CharacterOffsetBegin>951</CharacterOffsetBegin>
+            <CharacterOffsetEnd>956</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="16">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>956</CharacterOffsetBegin>
+            <CharacterOffsetEnd>957</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="8">
+        <tokens>
+          <token id="1">
+            <word>Wikipédia</word>
+            <lemma>wikipédia</lemma>
+            <CharacterOffsetBegin>958</CharacterOffsetBegin>
+            <CharacterOffsetEnd>967</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="2">
+            <word>utilise</word>
+            <lemma>utilise</lemma>
+            <CharacterOffsetBegin>968</CharacterOffsetBegin>
+            <CharacterOffsetEnd>975</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="3">
+            <word>aussi</word>
+            <lemma>aussi</lemma>
+            <CharacterOffsetBegin>976</CharacterOffsetBegin>
+            <CharacterOffsetEnd>981</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="4">
+            <word>Ubuntu</word>
+            <lemma>ubuntu</lemma>
+            <CharacterOffsetBegin>982</CharacterOffsetBegin>
+            <CharacterOffsetEnd>988</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="5">
+            <word>pour</word>
+            <lemma>pour</lemma>
+            <CharacterOffsetBegin>989</CharacterOffsetBegin>
+            <CharacterOffsetEnd>993</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="6">
+            <word>gérer</word>
+            <lemma>gérer</lemma>
+            <CharacterOffsetBegin>994</CharacterOffsetBegin>
+            <CharacterOffsetEnd>999</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="7">
+            <word>ses</word>
+            <lemma>ses</lemma>
+            <CharacterOffsetBegin>1000</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1003</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="8">
+            <word>serveurs</word>
+            <lemma>serveurs</lemma>
+            <CharacterOffsetBegin>1004</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1012</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="9">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>1012</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1013</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="9">
+        <tokens>
+          <token id="1">
+            <word>Ubuntu</word>
+            <lemma>ubuntu</lemma>
+            <CharacterOffsetBegin>1015</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1021</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="2">
+            <word>12.10</word>
+            <lemma>12.10</lemma>
+            <CharacterOffsetBegin>1022</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1027</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="10">
+        <tokens>
+          <token id="1">
+            <word>Baptisé</word>
+            <lemma>baptisé</lemma>
+            <CharacterOffsetBegin>1029</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1036</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="2">
+            <word>"</word>
+            <lemma>"</lemma>
+            <CharacterOffsetBegin>1037</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1038</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="3">
+            <word>Quantal</word>
+            <lemma>quantal</lemma>
+            <CharacterOffsetBegin>1039</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1046</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="4">
+            <word>Quetzal</word>
+            <lemma>quetzal</lemma>
+            <CharacterOffsetBegin>1047</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1054</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="5">
+            <word>"</word>
+            <lemma>"</lemma>
+            <CharacterOffsetBegin>1055</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1056</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1056</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1057</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="7">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>1058</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1060</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="8">
+            <word>système</word>
+            <lemma>système</lemma>
+            <CharacterOffsetBegin>1061</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1068</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="9">
+            <word>Ubuntu</word>
+            <lemma>ubuntu</lemma>
+            <CharacterOffsetBegin>1069</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1075</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="10">
+            <word>12.10</word>
+            <lemma>12.10</lemma>
+            <CharacterOffsetBegin>1076</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1081</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="11">
+            <word>sort</word>
+            <lemma>sort</lemma>
+            <CharacterOffsetBegin>1082</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1086</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="12">
+            <word>officiellement</word>
+            <lemma>officiellement</lemma>
+            <CharacterOffsetBegin>1087</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1101</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="13">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>1102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1104</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="14">
+            <word>18</word>
+            <lemma>18</lemma>
+            <CharacterOffsetBegin>1105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1107</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="15">
+            <word>octobre</word>
+            <lemma>octobre</lemma>
+            <CharacterOffsetBegin>1108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1115</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="16">
+            <word>2012</word>
+            <lemma>2012</lemma>
+            <CharacterOffsetBegin>1116</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1120</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="17">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1120</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1121</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="18">
+            <word>six</word>
+            <lemma>six</lemma>
+            <CharacterOffsetBegin>1122</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1125</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="19">
+            <word>mois</word>
+            <lemma>mois</lemma>
+            <CharacterOffsetBegin>1126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1130</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="20">
+            <word>après</word>
+            <lemma>après</lemma>
+            <CharacterOffsetBegin>1131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1136</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="21">
+            <word>celui</word>
+            <lemma>celui</lemma>
+            <CharacterOffsetBegin>1137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1142</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="22">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>1143</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1145</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="23">
+            <word>la</word>
+            <lemma>la</lemma>
+            <CharacterOffsetBegin>1146</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1148</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="24">
+            <word>version</word>
+            <lemma>version</lemma>
+            <CharacterOffsetBegin>1149</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1156</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="25">
+            <word>12.04</word>
+            <lemma>12.04</lemma>
+            <CharacterOffsetBegin>1157</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1162</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="26">
+            <word>LTS</word>
+            <lemma>lts</lemma>
+            <CharacterOffsetBegin>1163</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1166</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="27">
+            <word>"</word>
+            <lemma>"</lemma>
+            <CharacterOffsetBegin>1167</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1168</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="28">
+            <word>Precise</word>
+            <lemma>precise</lemma>
+            <CharacterOffsetBegin>1169</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1176</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="29">
+            <word>Pangolin</word>
+            <lemma>pangolin</lemma>
+            <CharacterOffsetBegin>1177</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1185</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="30">
+            <word>"</word>
+            <lemma>"</lemma>
+            <CharacterOffsetBegin>1186</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1187</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="31">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>1188</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1190</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="32">
+            <word>avril</word>
+            <lemma>avril</lemma>
+            <CharacterOffsetBegin>1190</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1195</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="33">
+            <word>dernier</word>
+            <lemma>dernier</lemma>
+            <CharacterOffsetBegin>1196</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1203</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="34">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>1203</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1204</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="11">
+        <tokens>
+          <token id="1">
+            <word>Il</word>
+            <lemma>il</lemma>
+            <CharacterOffsetBegin>1205</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1207</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="2">
+            <word>inclut</word>
+            <lemma>inclut</lemma>
+            <CharacterOffsetBegin>1208</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1214</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="3">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>1215</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1217</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="4">
+            <word>logiciel</word>
+            <lemma>logiciel</lemma>
+            <CharacterOffsetBegin>1218</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1226</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="5">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>1227</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1229</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="6">
+            <word>gestion</word>
+            <lemma>gestion</lemma>
+            <CharacterOffsetBegin>1230</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1237</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="7">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>1238</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1240</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="8">
+            <word>l'</word>
+            <lemma>l'</lemma>
+            <CharacterOffsetBegin>1241</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1243</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="9">
+            <word>interface</word>
+            <lemma>interface</lemma>
+            <CharacterOffsetBegin>1243</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1252</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="10">
+            <word>graphique</word>
+            <lemma>graphique</lemma>
+            <CharacterOffsetBegin>1253</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1262</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="11">
+            <word>Unity</word>
+            <lemma>unity</lemma>
+            <CharacterOffsetBegin>1263</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1268</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="12">
+            <word>3</word>
+            <lemma>3</lemma>
+            <CharacterOffsetBegin>1269</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1270</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="13">
+            <word>D</word>
+            <lemma>d</lemma>
+            <CharacterOffsetBegin>1270</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1271</CharacterOffsetEnd>
+            <POS>X</POS>
+          </token>
+          <token id="14">
+            <word>pour</word>
+            <lemma>pour</lemma>
+            <CharacterOffsetBegin>1272</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1276</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="15">
+            <word>les</word>
+            <lemma>les</lemma>
+            <CharacterOffsetBegin>1277</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1280</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="16">
+            <word>ordinateurs</word>
+            <lemma>ordinateurs</lemma>
+            <CharacterOffsetBegin>1281</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1292</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="17">
+            <word>plus</word>
+            <lemma>plus</lemma>
+            <CharacterOffsetBegin>1293</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1297</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="18">
+            <word>performants</word>
+            <lemma>performants</lemma>
+            <CharacterOffsetBegin>1298</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1309</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="19">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1309</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1310</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="20">
+            <word>mais</word>
+            <lemma>mais</lemma>
+            <CharacterOffsetBegin>1311</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1315</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="21">
+            <word>les</word>
+            <lemma>les</lemma>
+            <CharacterOffsetBegin>1316</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1319</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="22">
+            <word>utilisateurs</word>
+            <lemma>utilisateurs</lemma>
+            <CharacterOffsetBegin>1320</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1332</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="23">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>1333</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1335</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="24">
+            <word>anciens</word>
+            <lemma>anciens</lemma>
+            <CharacterOffsetBegin>1335</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1342</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="25">
+            <word>systèmes</word>
+            <lemma>systèmes</lemma>
+            <CharacterOffsetBegin>1343</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1351</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="26">
+            <word>moins</word>
+            <lemma>moins</lemma>
+            <CharacterOffsetBegin>1352</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1357</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="27">
+            <word>rapides</word>
+            <lemma>rapides</lemma>
+            <CharacterOffsetBegin>1358</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1365</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="28">
+            <word>bénéficieront</word>
+            <lemma>bénéficieront</lemma>
+            <CharacterOffsetBegin>1366</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1379</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="29">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>1380</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1382</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="30">
+            <word>Unity</word>
+            <lemma>unity</lemma>
+            <CharacterOffsetBegin>1382</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1387</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="31">
+            <word>2</word>
+            <lemma>2</lemma>
+            <CharacterOffsetBegin>1388</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1389</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="32">
+            <word>D.</word>
+            <lemma>d.</lemma>
+            <CharacterOffsetBegin>1389</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1391</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="33">
+            <word>Le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>1392</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1394</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="34">
+            <word>système</word>
+            <lemma>système</lemma>
+            <CharacterOffsetBegin>1395</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1402</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="35">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>1403</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1405</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="36">
+            <word>exploitation</word>
+            <lemma>exploitation</lemma>
+            <CharacterOffsetBegin>1405</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1417</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="37">
+            <word>est</word>
+            <lemma>est</lemma>
+            <CharacterOffsetBegin>1418</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1421</CharacterOffsetEnd>
+            <POS>AUX</POS>
+          </token>
+          <token id="38">
+            <word>équipé</word>
+            <lemma>équipé</lemma>
+            <CharacterOffsetBegin>1422</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1428</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="39">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>1429</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1431</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="40">
+            <word>nouvelles</word>
+            <lemma>nouvelles</lemma>
+            <CharacterOffsetBegin>1432</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1441</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="41">
+            <word>fonctions</word>
+            <lemma>fonctions</lemma>
+            <CharacterOffsetBegin>1442</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1451</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="42">
+            <word>comme</word>
+            <lemma>comme</lemma>
+            <CharacterOffsetBegin>1452</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1457</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="43">
+            <word>l'</word>
+            <lemma>l'</lemma>
+            <CharacterOffsetBegin>1458</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1460</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="44">
+            <word>intégration</word>
+            <lemma>intégration</lemma>
+            <CharacterOffsetBegin>1460</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1471</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="45">
+            <word>pour</word>
+            <lemma>pour</lemma>
+            <CharacterOffsetBegin>1472</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1476</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="46">
+            <word>la</word>
+            <lemma>la</lemma>
+            <CharacterOffsetBegin>1477</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1479</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="47">
+            <word>recherche</word>
+            <lemma>recherche</lemma>
+            <CharacterOffsetBegin>1480</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1489</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="48">
+            <word>sur</word>
+            <lemma>sur</lemma>
+            <CharacterOffsetBegin>1490</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1493</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="49">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>1494</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1496</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="50">
+            <word>web</word>
+            <lemma>web</lemma>
+            <CharacterOffsetBegin>1497</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1500</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="51">
+            <word>ou</word>
+            <lemma>ou</lemma>
+            <CharacterOffsetBegin>1501</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1503</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="52">
+            <word>encore</word>
+            <lemma>encore</lemma>
+            <CharacterOffsetBegin>1504</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1510</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="53">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>1511</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1513</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="54">
+            <word>démarrage</word>
+            <lemma>démarrage</lemma>
+            <CharacterOffsetBegin>1514</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1523</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="55">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>1524</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1526</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="56">
+            <word>applications</word>
+            <lemma>applications</lemma>
+            <CharacterOffsetBegin>1526</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1538</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="57">
+            <word>web</word>
+            <lemma>web</lemma>
+            <CharacterOffsetBegin>1539</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1542</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="58">
+            <word>directement</word>
+            <lemma>directement</lemma>
+            <CharacterOffsetBegin>1543</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1554</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="59">
+            <word>depuis</word>
+            <lemma>depuis</lemma>
+            <CharacterOffsetBegin>1555</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1561</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="60">
+            <word>l'</word>
+            <lemma>l'</lemma>
+            <CharacterOffsetBegin>1562</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1564</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="61">
+            <word>interface</word>
+            <lemma>interface</lemma>
+            <CharacterOffsetBegin>1564</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1573</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="62">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>1574</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1575</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="63">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>1575</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1576</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="64">
+            <word>bureau</word>
+            <lemma>bureau</lemma>
+            <CharacterOffsetBegin>1577</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1583</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="65">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>1583</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1584</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="12">
+        <tokens>
+          <token id="1">
+            <word>Par</word>
+            <lemma>par</lemma>
+            <CharacterOffsetBegin>1585</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1588</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="2">
+            <word>ailleurs</word>
+            <lemma>ailleurs</lemma>
+            <CharacterOffsetBegin>1589</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1597</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1597</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1598</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="4">
+            <word>l'</word>
+            <lemma>l'</lemma>
+            <CharacterOffsetBegin>1599</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1601</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="5">
+            <word>utilisateur</word>
+            <lemma>utilisateur</lemma>
+            <CharacterOffsetBegin>1601</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1612</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="6">
+            <word>pourra</word>
+            <lemma>pourra</lemma>
+            <CharacterOffsetBegin>1613</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1619</CharacterOffsetEnd>
+            <POS>AUX</POS>
+          </token>
+          <token id="7">
+            <word>directement</word>
+            <lemma>directement</lemma>
+            <CharacterOffsetBegin>1620</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1631</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="8">
+            <word>utiliser</word>
+            <lemma>utiliser</lemma>
+            <CharacterOffsetBegin>1632</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1640</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="9">
+            <word>des</word>
+            <lemma>des</lemma>
+            <CharacterOffsetBegin>1641</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1644</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="10">
+            <word>logiciels</word>
+            <lemma>logiciels</lemma>
+            <CharacterOffsetBegin>1645</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1654</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="11">
+            <word>clients</word>
+            <lemma>clients</lemma>
+            <CharacterOffsetBegin>1655</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1662</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="12">
+            <word>pour</word>
+            <lemma>pour</lemma>
+            <CharacterOffsetBegin>1663</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1667</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="13">
+            <word>se</word>
+            <lemma>se</lemma>
+            <CharacterOffsetBegin>1668</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1670</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="14">
+            <word>connecter</word>
+            <lemma>connecter</lemma>
+            <CharacterOffsetBegin>1671</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1680</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="15">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>1681</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1682</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="16">
+            <word>les</word>
+            <lemma>les</lemma>
+            <CharacterOffsetBegin>1682</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1684</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="17">
+            <word>réseaux</word>
+            <lemma>réseaux</lemma>
+            <CharacterOffsetBegin>1685</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1692</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="18">
+            <word>sociaux</word>
+            <lemma>sociaux</lemma>
+            <CharacterOffsetBegin>1693</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1700</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="19">
+            <word>directement</word>
+            <lemma>directement</lemma>
+            <CharacterOffsetBegin>1701</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1712</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="20">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>1713</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1714</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="21">
+            <word>partir</word>
+            <lemma>partir</lemma>
+            <CharacterOffsetBegin>1715</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1721</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="22">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>1722</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1723</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="23">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>1723</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1724</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="24">
+            <word>système</word>
+            <lemma>système</lemma>
+            <CharacterOffsetBegin>1725</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1732</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="25">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1732</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1733</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="26">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>1734</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1735</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="27">
+            <word>condition</word>
+            <lemma>condition</lemma>
+            <CharacterOffsetBegin>1736</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1745</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="28">
+            <word>toutefois</word>
+            <lemma>toutefois</lemma>
+            <CharacterOffsetBegin>1746</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1755</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="29">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>1756</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1758</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="30">
+            <word>ouvrir</word>
+            <lemma>ouvrir</lemma>
+            <CharacterOffsetBegin>1758</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1764</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="31">
+            <word>ces</word>
+            <lemma>ces</lemma>
+            <CharacterOffsetBegin>1765</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1768</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="32">
+            <word>sites</word>
+            <lemma>sites</lemma>
+            <CharacterOffsetBegin>1769</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1774</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="33">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>1775</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1776</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="34">
+            <word>l'</word>
+            <lemma>l'</lemma>
+            <CharacterOffsetBegin>1777</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1779</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="35">
+            <word>aide</word>
+            <lemma>aide</lemma>
+            <CharacterOffsetBegin>1779</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1783</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="36">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>1784</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1786</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="37">
+            <word>un</word>
+            <lemma>un</lemma>
+            <CharacterOffsetBegin>1786</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1788</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="38">
+            <word>navigateur</word>
+            <lemma>navigateur</lemma>
+            <CharacterOffsetBegin>1789</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1799</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="39">
+            <word>web</word>
+            <lemma>web</lemma>
+            <CharacterOffsetBegin>1800</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1803</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="40">
+            <word>pour</word>
+            <lemma>pour</lemma>
+            <CharacterOffsetBegin>1804</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1808</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="41">
+            <word>l'</word>
+            <lemma>l'</lemma>
+            <CharacterOffsetBegin>1809</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1811</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="42">
+            <word>authentification</word>
+            <lemma>authentification</lemma>
+            <CharacterOffsetBegin>1811</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1827</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="43">
+            <word>et</word>
+            <lemma>et</lemma>
+            <CharacterOffsetBegin>1828</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1830</CharacterOffsetEnd>
+            <POS>CONJ</POS>
+          </token>
+          <token id="44">
+            <word>activer</word>
+            <lemma>activer</lemma>
+            <CharacterOffsetBegin>1831</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1838</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="45">
+            <word>l'</word>
+            <lemma>l'</lemma>
+            <CharacterOffsetBegin>1839</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1841</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="46">
+            <word>intégration</word>
+            <lemma>intégration</lemma>
+            <CharacterOffsetBegin>1841</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1852</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="47">
+            <word>par</word>
+            <lemma>par</lemma>
+            <CharacterOffsetBegin>1853</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1856</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="48">
+            <word>la</word>
+            <lemma>la</lemma>
+            <CharacterOffsetBegin>1857</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1859</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="49">
+            <word>suite</word>
+            <lemma>suite</lemma>
+            <CharacterOffsetBegin>1860</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1865</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="50">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>1865</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1866</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="13">
+        <tokens>
+          <token id="1">
+            <word>Les</word>
+            <lemma>les</lemma>
+            <CharacterOffsetBegin>1867</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1870</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="2">
+            <word>mises</word>
+            <lemma>mises</lemma>
+            <CharacterOffsetBegin>1871</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1876</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="3">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>1877</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1878</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="4">
+            <word>jour</word>
+            <lemma>jour</lemma>
+            <CharacterOffsetBegin>1879</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1883</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="5">
+            <word>de</word>
+            <lemma>de</lemma>
+            <CharacterOffsetBegin>1884</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1885</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="6">
+            <word>le</word>
+            <lemma>le</lemma>
+            <CharacterOffsetBegin>1885</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1886</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="7">
+            <word>système</word>
+            <lemma>système</lemma>
+            <CharacterOffsetBegin>1887</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1894</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="8">
+            <word>seront</word>
+            <lemma>seront</lemma>
+            <CharacterOffsetBegin>1895</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1901</CharacterOffsetEnd>
+            <POS>AUX</POS>
+          </token>
+          <token id="9">
+            <word>assurées</word>
+            <lemma>assurées</lemma>
+            <CharacterOffsetBegin>1902</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1910</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="10">
+            <word>durant</word>
+            <lemma>durant</lemma>
+            <CharacterOffsetBegin>1911</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1917</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="11">
+            <word>un</word>
+            <lemma>un</lemma>
+            <CharacterOffsetBegin>1918</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1920</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="12">
+            <word>an</word>
+            <lemma>an</lemma>
+            <CharacterOffsetBegin>1921</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1923</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="13">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1923</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1924</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="14">
+            <word>contrairement</word>
+            <lemma>contrairement</lemma>
+            <CharacterOffsetBegin>1925</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1938</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="15">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>1939</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1940</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="16">
+            <word>la</word>
+            <lemma>la</lemma>
+            <CharacterOffsetBegin>1941</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1943</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="17">
+            <word>version</word>
+            <lemma>version</lemma>
+            <CharacterOffsetBegin>1944</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1951</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="18">
+            <word>avec</word>
+            <lemma>avec</lemma>
+            <CharacterOffsetBegin>1952</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1956</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="19">
+            <word>support</word>
+            <lemma>support</lemma>
+            <CharacterOffsetBegin>1957</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1964</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="20">
+            <word>à</word>
+            <lemma>à</lemma>
+            <CharacterOffsetBegin>1965</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1966</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="21">
+            <word>long</word>
+            <lemma>long</lemma>
+            <CharacterOffsetBegin>1967</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1971</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="22">
+            <word>terme</word>
+            <lemma>terme</lemma>
+            <CharacterOffsetBegin>1972</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1977</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="23">
+            <word>(</word>
+            <lemma>(</lemma>
+            <CharacterOffsetBegin>1978</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1979</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="24">
+            <word>LTS</word>
+            <lemma>lts</lemma>
+            <CharacterOffsetBegin>1979</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1982</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="25">
+            <word>)</word>
+            <lemma>)</lemma>
+            <CharacterOffsetBegin>1982</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1983</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="26">
+            <word>qui</word>
+            <lemma>qui</lemma>
+            <CharacterOffsetBegin>1984</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1987</CharacterOffsetEnd>
+            <POS>PRON</POS>
+          </token>
+          <token id="27">
+            <word>ne</word>
+            <lemma>ne</lemma>
+            <CharacterOffsetBegin>1988</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1990</CharacterOffsetEnd>
+            <POS>PART</POS>
+          </token>
+          <token id="28">
+            <word>durent</word>
+            <lemma>durent</lemma>
+            <CharacterOffsetBegin>1991</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1997</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="29">
+            <word>que</word>
+            <lemma>que</lemma>
+            <CharacterOffsetBegin>1998</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2001</CharacterOffsetEnd>
+            <POS>ADV</POS>
+          </token>
+          <token id="30">
+            <word>5</word>
+            <lemma>5</lemma>
+            <CharacterOffsetBegin>2002</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2003</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="31">
+            <word>ans</word>
+            <lemma>ans</lemma>
+            <CharacterOffsetBegin>2004</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2007</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="32">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>2007</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2008</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="14">
+        <tokens>
+          <token id="1">
+            <word>La</word>
+            <lemma>la</lemma>
+            <CharacterOffsetBegin>2010</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2012</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="2">
+            <word>prochaine</word>
+            <lemma>prochaine</lemma>
+            <CharacterOffsetBegin>2013</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2022</CharacterOffsetEnd>
+            <POS>ADJ</POS>
+          </token>
+          <token id="3">
+            <word>version</word>
+            <lemma>version</lemma>
+            <CharacterOffsetBegin>2023</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2030</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="4">
+            <word>d'</word>
+            <lemma>d'</lemma>
+            <CharacterOffsetBegin>2031</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2033</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="5">
+            <word>Ubuntu</word>
+            <lemma>ubuntu</lemma>
+            <CharacterOffsetBegin>2033</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2039</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>2039</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2040</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="7">
+            <word>la</word>
+            <lemma>la</lemma>
+            <CharacterOffsetBegin>2041</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2043</CharacterOffsetEnd>
+            <POS>DET</POS>
+          </token>
+          <token id="8">
+            <word>13.04</word>
+            <lemma>13.04</lemma>
+            <CharacterOffsetBegin>2044</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2049</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="9">
+            <word>"</word>
+            <lemma>"</lemma>
+            <CharacterOffsetBegin>2050</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2051</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="10">
+            <word>Raring</word>
+            <lemma>raring</lemma>
+            <CharacterOffsetBegin>2052</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2058</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="11">
+            <word>Ringtail</word>
+            <lemma>ringtail</lemma>
+            <CharacterOffsetBegin>2059</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2067</CharacterOffsetEnd>
+            <POS>PROPN</POS>
+          </token>
+          <token id="12">
+            <word>"</word>
+            <lemma>"</lemma>
+            <CharacterOffsetBegin>2068</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2069</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="13">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>2069</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2070</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+          <token id="14">
+            <word>sortira</word>
+            <lemma>sortira</lemma>
+            <CharacterOffsetBegin>2071</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2078</CharacterOffsetEnd>
+            <POS>VERB</POS>
+          </token>
+          <token id="15">
+            <word>en</word>
+            <lemma>en</lemma>
+            <CharacterOffsetBegin>2079</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2081</CharacterOffsetEnd>
+            <POS>ADP</POS>
+          </token>
+          <token id="16">
+            <word>avril</word>
+            <lemma>avril</lemma>
+            <CharacterOffsetBegin>2082</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2087</CharacterOffsetEnd>
+            <POS>NOUN</POS>
+          </token>
+          <token id="17">
+            <word>2013</word>
+            <lemma>2013</lemma>
+            <CharacterOffsetBegin>2088</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2092</CharacterOffsetEnd>
+            <POS>NUM</POS>
+          </token>
+          <token id="18">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>2092</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2093</CharacterOffsetEnd>
+            <POS>PUNCT</POS>
+          </token>
+        </tokens>
+      </sentence>
+    </sentences>
+  </document>
+</root>

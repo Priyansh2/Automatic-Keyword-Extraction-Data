@@ -1,0 +1,7270 @@
+{
+    "1": [
+        [
+            "construct of dispers"
+        ],
+        [
+            "random extract"
+        ],
+        [
+            "polynomi time comput dispers"
+        ],
+        [
+            "theorem"
+        ],
+        [
+            "bipartit graph"
+        ],
+        [
+            "block-sourc"
+        ],
+        [
+            "defici"
+        ],
+        [
+            "subsourc somewher extractor"
+        ],
+        [
+            "sum-product theorem"
+        ],
+        [
+            "dispers"
+        ],
+        [
+            "explicit dispers"
+        ],
+        [
+            "independ sourc"
+        ],
+        [
+            "algorithm"
+        ],
+        [
+            "resili"
+        ],
+        [
+            "recurs"
+        ],
+        [
+            "entropi"
+        ],
+        [
+            "tool"
+        ],
+        [
+            "distribut"
+        ],
+        [
+            "subsourc"
+        ],
+        [
+            "extractor"
+        ],
+        [
+            "structur"
+        ],
+        [
+            "termin"
+        ],
+        [
+            "ramsey graph"
+        ]
+    ],
+    "10": [
+        [
+            "document space"
+        ],
+        [
+            "invers document frequenc (idf)"
+        ],
+        [
+            "probabl theori"
+        ],
+        [
+            "independ and disjoint document"
+        ],
+        [
+            "disjoint document"
+        ],
+        [
+            "probabl of be inform"
+        ],
+        [
+            "probabilist inform retriev"
+        ],
+        [
+            "comput scienc"
+        ],
+        [
+            "invers document frequenc"
+        ],
+        [
+            "document retriev"
+        ],
+        [
+            "relevance-bas rank of retriev object"
+        ],
+        [
+            "assumpt"
+        ],
+        [
+            "collect space"
+        ],
+        [
+            "inform search"
+        ],
+        [
+            "poisson-bas probabl of be inform"
+        ],
+        [
+            "probabilist retriev model"
+        ],
+        [
+            "frequency-bas term nois probabl"
+        ],
+        [
+            "poisson base probabl"
+        ],
+        [
+            "inform theori"
+        ],
+        [
+            "term frequenc"
+        ],
+        [
+            "entropi"
+        ],
+        [
+            "independ assumpt"
+        ],
+        [
+            "poisson distribut"
+        ],
+        [
+            "frequency-bas probabl"
+        ],
+        [
+            "normalis"
+        ],
+        [
+            "independ document"
+        ],
+        [
+            "maxim inform signal"
+        ],
+        [
+            "nois probabl"
+        ],
+        [
+            "document frequenc"
+        ]
+    ],
+    "100": [
+        [
+            "fault toler"
+        ],
+        [
+            "crawl system"
+        ],
+        [
+            "high avail system"
+        ],
+        [
+            "high avail"
+        ],
+        [
+            "domino node"
+        ],
+        [
+            "deep web crawl"
+        ],
+        [
+            "random walk and sampl"
+        ],
+        [
+            "document fingerprint"
+        ],
+        [
+            "hierarch cooper"
+        ],
+        [
+            "web crawler"
+        ],
+        [
+            "target crawl"
+        ],
+        [
+            "breadth-first crawl"
+        ],
+        [
+            "maintaiabl and configur"
+        ],
+        [
+            "high perform crawl system"
+        ],
+        [
+            "domino distribut databas"
+        ],
+        [
+            "breadth first crawl"
+        ],
+        [
+            "erlang develop kit"
+        ],
+        [
+            "domino rpc concurr"
+        ],
+        [
+            "url cach"
+        ],
+        [
+            "real-tim distribut system"
+        ],
+        [
+            "domino gener server"
+        ],
+        [
+            "limit disk access"
+        ],
+        [
+            "domino process"
+        ],
+        [
+            "repetit crawl"
+        ]
+    ],
+    "101": [
+        [
+            "wig"
+        ],
+        [
+            "etsi"
+        ],
+        [
+            "bran"
+        ],
+        [
+            "public access"
+        ],
+        [
+            "hiperlan/2"
+        ],
+        [
+            "interwork"
+        ],
+        [
+            "3g"
+        ]
+    ],
+    "102": [
+        [
+            "inform visual"
+        ],
+        [
+            "spread activ"
+        ]
+    ],
+    "103": [
+        [
+            "knn"
+        ],
+        [
+            "bayesian network"
+        ],
+        [
+            "content-target advertis"
+        ],
+        [
+            "web"
+        ],
+        [
+            "advertis"
+        ],
+        [
+            "imped coupl"
+        ],
+        [
+            "trigger page"
+        ],
+        [
+            "match"
+        ]
+    ],
+    "104": [
+        [
+            "it model curriculum"
+        ],
+        [
+            "it fundament knowledg area"
+        ]
+    ],
+    "105": [
+        [
+            "user model"
+        ],
+        [
+            "person search"
+        ],
+        [
+            "retriev accuraci"
+        ],
+        [
+            "interact retriev"
+        ],
+        [
+            "ucair"
+        ],
+        [
+            "clickthrough inform"
+        ],
+        [
+            "inform retriev system"
+        ],
+        [
+            "implicit feedback"
+        ]
+    ],
+    "106": [
+        [
+            "nearest neighbour search"
+        ],
+        [
+            "tlaesa"
+        ],
+        [
+            "distanc computaion"
+        ],
+        [
+            "k nearest neighbour search"
+        ],
+        [
+            "approxim search"
+        ]
+    ],
+    "107": [
+        [
+            "scheme"
+        ],
+        [
+            "valu flow analysi"
+        ],
+        [
+            "embed languag"
+        ],
+        [
+            "regular express"
+        ],
+        [
+            "macro"
+        ],
+        [
+            "interpret"
+        ],
+        [
+            "set-bas analysi"
+        ],
+        [
+            "flow analysi"
+        ],
+        [
+            "partial evalu"
+        ]
+    ],
+    "108": [
+        [
+            "buffer pattern"
+        ],
+        [
+            "frequent itemset"
+        ],
+        [
+            "databas updat"
+        ],
+        [
+            "revers pattern match"
+        ],
+        [
+            "sequenc databas"
+        ],
+        [
+            "sequenti pattern"
+        ],
+        [
+            "increment mine"
+        ],
+        [
+            "share project"
+        ],
+        [
+            "optim"
+        ]
+    ],
+    "109": [
+        [
+            "index structur"
+        ],
+        [
+            "queri optim"
+        ],
+        [
+            "rdf queri"
+        ],
+        [
+            "semant web"
+        ],
+        [
+            "infrastructur"
+        ],
+        [
+            "repositori"
+        ],
+        [
+            "join order problem"
+        ],
+        [
+            "rdf"
+        ],
+        [
+            "extern sourc"
+        ],
+        [
+            "optim"
+        ],
+        [
+            "distribut architectur"
+        ]
+    ],
+    "11": [
+        [
+            "closur convers"
+        ],
+        [
+            "call-by-valu"
+        ],
+        [
+            "call-by-nam"
+        ],
+        [
+            "abstract machin"
+        ],
+        [
+            "defunction"
+        ],
+        [
+            "evalu"
+        ],
+        [
+            "transform into continuation-pass style (cps)"
+        ],
+        [
+            "interpret"
+        ]
+    ],
+    "110": [
+        [
+            "longest common subsequ (lcss)"
+        ],
+        [
+            "similar"
+        ],
+        [
+            "measur"
+        ],
+        [
+            "longest common subsequ"
+        ],
+        [
+            "dynam time warp"
+        ],
+        [
+            "trajectori"
+        ],
+        [
+            "index"
+        ],
+        [
+            "dynam time warp (dtw)"
+        ],
+        [
+            "distanc function"
+        ]
+    ],
+    "111": [
+        [
+            "inform retriev"
+        ],
+        [
+            "user model"
+        ],
+        [
+            "search"
+        ],
+        [
+            "read comprehens"
+        ],
+        [
+            "computer-assist learn"
+        ]
+    ],
+    "112": [
+        [
+            "search engin"
+        ],
+        [
+            "queri categor / queri classif"
+        ],
+        [
+            "queri classif"
+        ],
+        [
+            "local page"
+        ],
+        [
+            "categor scheme"
+        ],
+        [
+            "geograph local"
+        ],
+        [
+            "inform retriev"
+        ],
+        [
+            "web search"
+        ],
+        [
+            "queri modif"
+        ],
+        [
+            "global page"
+        ],
+        [
+            "web queri"
+        ]
+    ],
+    "113": [
+        [
+            "privaci risk"
+        ],
+        [
+            "onlin behavior"
+        ],
+        [
+            "colleg"
+        ],
+        [
+            "onlin social network"
+        ],
+        [
+            "inform revel"
+        ],
+        [
+            "stalk"
+        ],
+        [
+            "facebook"
+        ],
+        [
+            "social network site"
+        ],
+        [
+            "privaci"
+        ],
+        [
+            "inform relev"
+        ],
+        [
+            "data visibl"
+        ],
+        [
+            "social network theori"
+        ],
+        [
+            "privaci perfer"
+        ],
+        [
+            "onlin privaci"
+        ],
+        [
+            "re-identif"
+        ]
+    ],
+    "114": [
+        [
+            "xml"
+        ],
+        [
+            "link local"
+        ],
+        [
+            "topic distil"
+        ],
+        [
+            "minimum descript length principl"
+        ],
+        [
+            "hyperlink"
+        ],
+        [
+            "microscop distil"
+        ],
+        [
+            "pagerank algorithm"
+        ],
+        [
+            "text analysi"
+        ],
+        [
+            "dom"
+        ],
+        [
+            "hit"
+        ],
+        [
+            "segment"
+        ],
+        [
+            "hub fragment"
+        ],
+        [
+            "document object model"
+        ],
+        [
+            "googl"
+        ]
+    ],
+    "115": [
+        [
+            "it2005"
+        ],
+        [
+            "byu curriculum"
+        ],
+        [
+            "sigit curriculum committe"
+        ],
+        [
+            "cc2005"
+        ],
+        [
+            "ia"
+        ],
+        [
+            "nietp program"
+        ],
+        [
+            "educ"
+        ],
+        [
+            "secur knowledg"
+        ],
+        [
+            "pervas theme"
+        ],
+        [
+            "it"
+        ],
+        [
+            "it2005 volum"
+        ],
+        [
+            "in-servic train develop"
+        ],
+        [
+            "committe on nation secur system"
+        ],
+        [
+            "citc-1"
+        ],
+        [
+            "inform assur"
+        ],
+        [
+            "inform technolog"
+        ],
+        [
+            "train standard"
+        ]
+    ],
+    "116": [
+        [
+            "classic machin learn"
+        ],
+        [
+            "interact"
+        ],
+        [
+            "imag process with crayon"
+        ],
+        [
+            "crayon design process"
+        ],
+        [
+            "perceptu user iinterfac"
+        ],
+        [
+            "crayon prototyp"
+        ],
+        [
+            "perceptu interfac"
+        ],
+        [
+            "image/pixel classifi"
+        ],
+        [
+            "classif design loop"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "predict correct behaviour"
+        ],
+        [
+            "imag process"
+        ],
+        [
+            "percept user interfac"
+        ],
+        [
+            "interact machin learn"
+        ],
+        [
+            "classif"
+        ]
+    ],
+    "117": [
+        [
+            "emerg pattern"
+        ],
+        [
+            "associ rule"
+        ],
+        [
+            "interesting"
+        ],
+        [
+            "frequent itemset"
+        ],
+        [
+            "bayesian network"
+        ],
+        [
+            "background knowledg"
+        ]
+    ],
+    "118": [
+        [
+            "perform degrad"
+        ],
+        [
+            "evalu"
+        ],
+        [
+            "bluetooth"
+        ],
+        [
+            "wpan"
+        ],
+        [
+            "interfer"
+        ],
+        [
+            "wlan"
+        ],
+        [
+            "topolog"
+        ],
+        [
+            "simul framework"
+        ],
+        [
+            "hop rate"
+        ],
+        [
+            "offer load"
+        ],
+        [
+            "ieee 802.11b"
+        ],
+        [
+            "packet loss"
+        ],
+        [
+            "tranmiss power"
+        ]
+    ],
+    "119": [
+        [
+            "text-bas display"
+        ],
+        [
+            "graphic represent"
+        ],
+        [
+            "ambient display"
+        ],
+        [
+            "awar inform"
+        ],
+        [
+            "peripher display"
+        ],
+        [
+            "infocanva display"
+        ],
+        [
+            "web portal-lik display"
+        ],
+        [
+            "evalu"
+        ],
+        [
+            "inform convey"
+        ],
+        [
+            "empir evalu"
+        ],
+        [
+            "inform recal"
+        ],
+        [
+            "inform visual"
+        ]
+    ],
+    "12": [
+        [
+            "layout"
+        ],
+        [
+            "3d graphic applic"
+        ],
+        [
+            "coordin transform"
+        ],
+        [
+            "geometr layout"
+        ],
+        [
+            "graphic object"
+        ],
+        [
+            "3d graphic"
+        ],
+        [
+            "behavior"
+        ],
+        [
+            "geometr constraint"
+        ],
+        [
+            "scene graph"
+        ],
+        [
+            "constraint satisfact"
+        ]
+    ],
+    "120": [
+        [
+            "dim"
+        ],
+        [
+            "storag hot-spot"
+        ],
+        [
+            "energi save"
+        ],
+        [
+            "qualiti of data (qod)"
+        ],
+        [
+            "rout algorithm"
+        ],
+        [
+            "data persist"
+        ],
+        [
+            "sensor network"
+        ],
+        [
+            "weight split median problem"
+        ],
+        [
+            "ad-hoc queri"
+        ],
+        [
+            "power-awar"
+        ],
+        [
+            "distribut algorithm"
+        ],
+        [
+            "kddc"
+        ]
+    ],
+    "121": [
+        [
+            "topic track"
+        ],
+        [
+            "similar"
+        ],
+        [
+            "arab"
+        ],
+        [
+            "machin translat"
+        ],
+        [
+            "topic model"
+        ],
+        [
+            "nativ topic model"
+        ],
+        [
+            "nativ languag hypothesi"
+        ],
+        [
+            "multilingu topic track"
+        ],
+        [
+            "crosslingu"
+        ],
+        [
+            "tdt"
+        ],
+        [
+            "multilingu"
+        ],
+        [
+            "stori link"
+        ],
+        [
+            "classif"
+        ]
+    ],
+    "122": [
+        [
+            "lazi preserv"
+        ],
+        [
+            "search engin"
+        ],
+        [
+            "reconstruct"
+        ],
+        [
+            "recoveri"
+        ],
+        [
+            "cach"
+        ],
+        [
+            "web repositori"
+        ],
+        [
+            "cach resourc"
+        ],
+        [
+            "digit preserv"
+        ],
+        [
+            "crawl"
+        ],
+        [
+            "search engin (ses)"
+        ]
+    ],
+    "123": [
+        [
+            "cluster"
+        ],
+        [
+            "imbalanc data"
+        ],
+        [
+            "shrink techniqu"
+        ],
+        [
+            "trecvid"
+        ],
+        [
+            "larg scale"
+        ],
+        [
+            "meta-algorithm"
+        ],
+        [
+            "concept model"
+        ],
+        [
+            "support cluster machin (scms)"
+        ],
+        [
+            "kernel k-mean"
+        ],
+        [
+            "support vector machin"
+        ],
+        [
+            "imbal"
+        ],
+        [
+            "support vector machin (svms)"
+        ],
+        [
+            "larg scale data"
+        ]
+    ],
+    "124": [
+        [
+            "search engin"
+        ],
+        [
+            "learn"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "web interfac"
+        ],
+        [
+            "web resourc"
+        ],
+        [
+            "hidden web"
+        ],
+        [
+            "automat acquisit"
+        ],
+        [
+            "queri languag"
+        ],
+        [
+            "queri oper"
+        ],
+        [
+            "search interfac"
+        ]
+    ],
+    "125": [
+        [
+            "featur weight"
+        ],
+        [
+            "spatial vari dissimilar (svad)"
+        ],
+        [
+            "cluster"
+        ],
+        [
+            "dissimilar measur"
+        ],
+        [
+            "learn dissimilar measur"
+        ]
+    ],
+    "126": [
+        [
+            "spectral kernel learn"
+        ],
+        [
+            "unifi kernel machine(ukm)"
+        ],
+        [
+            "unsuper-vis kernel design"
+        ],
+        [
+            "data mine"
+        ],
+        [
+            "framework"
+        ],
+        [
+            "semi-supervis learn"
+        ],
+        [
+            "activ learn"
+        ],
+        [
+            "supervis learn"
+        ],
+        [
+            "semi-supervis kernel learn"
+        ],
+        [
+            "kernel machin"
+        ],
+        [
+            "spectral kernel learn (skl)"
+        ],
+        [
+            "kernel logist regress"
+        ],
+        [
+            "classif"
+        ]
+    ],
+    "127": [
+        [
+            "geometri data"
+        ],
+        [
+            "float point process"
+        ],
+        [
+            "floating-point microprocessor"
+        ],
+        [
+            "parallel graphic algorithm"
+        ],
+        [
+            "antialias line"
+        ],
+        [
+            "3d graphic hardwar"
+        ],
+        [
+            "3d shade graphic"
+        ],
+        [
+            "small physic size"
+        ],
+        [
+            "gener graphic process"
+        ],
+        [
+            "render"
+        ],
+        [
+            "low cost"
+        ],
+        [
+            "screen space render"
+        ],
+        [
+            "input process"
+        ],
+        [
+            "parallel algorithm"
+        ],
+        [
+            "video output"
+        ],
+        [
+            "gouraud shade"
+        ]
+    ],
+    "128": [
+        [
+            "index scheme"
+        ],
+        [
+            "locat base servic"
+        ],
+        [
+            "map function"
+        ],
+        [
+            "broadcast"
+        ],
+        [
+            "wireless data broadcast"
+        ],
+        [
+            "data dissemin"
+        ],
+        [
+            "index"
+        ],
+        [
+            "locat depend data"
+        ],
+        [
+            "energi conserv"
+        ],
+        [
+            "push base architectur"
+        ],
+        [
+            "data stage"
+        ],
+        [
+            "wireless"
+        ],
+        [
+            "access effici"
+        ],
+        [
+            "contain"
+        ]
+    ],
+    "129": [
+        [
+            "bayesian bootstrap"
+        ],
+        [
+            "bag"
+        ],
+        [
+            "mean-squar predict error"
+        ],
+        [
+            "bootstrap"
+        ],
+        [
+            "lossless learn algorithm"
+        ],
+        [
+            "classif tree"
+        ],
+        [
+            "dirichlet distribut"
+        ],
+        [
+            "bayesian bag"
+        ],
+        [
+            "onlin bag"
+        ],
+        [
+            "classif"
+        ]
+    ],
+    "13": [
+        [
+            "algorithm"
+        ],
+        [
+            "layout"
+        ],
+        [
+            "layout analysi"
+        ],
+        [
+            "tabl ground truth protocol"
+        ],
+        [
+            "decis tree"
+        ],
+        [
+            "machin learn base approach"
+        ],
+        [
+            "present"
+        ],
+        [
+            "word group"
+        ],
+        [
+            "content type"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "classifc scheme"
+        ],
+        [
+            "inform retriev"
+        ],
+        [
+            "html document"
+        ],
+        [
+            "tabl detect"
+        ],
+        [
+            "support vector machin"
+        ],
+        [
+            "classif"
+        ]
+    ],
+    "130": [
+        [
+            "block hash (bh)"
+        ],
+        [
+            "acceler"
+        ],
+        [
+            "photon map"
+        ],
+        [
+            "knn"
+        ],
+        [
+            "aknn"
+        ],
+        [
+            "hash techniqu"
+        ]
+    ],
+    "131": [
+        [
+            "relat machin"
+        ],
+        [
+            "lower bound"
+        ],
+        [
+            "oblivi schedul"
+        ],
+        [
+            "onlin load balanc"
+        ],
+        [
+            "unit-s task"
+        ],
+        [
+            "onlin inform"
+        ],
+        [
+            "limit inform"
+        ],
+        [
+            "hop"
+        ],
+        [
+            "input sequenc"
+        ],
+        [
+            "schedul"
+        ]
+    ],
+    "132": [
+        [
+            "digit librari"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "topic discoveri"
+        ],
+        [
+            "interfac design"
+        ],
+        [
+            "document classif"
+        ],
+        [
+            "cluster"
+        ],
+        [
+            "relat browser"
+        ],
+        [
+            "inform architectur"
+        ],
+        [
+            "document represent"
+        ],
+        [
+            "bl"
+        ]
+    ],
+    "133": [
+        [
+            "featur select"
+        ],
+        [
+            "ensembl classifi"
+        ],
+        [
+            "knn"
+        ],
+        [
+            "svm"
+        ],
+        [
+            "biolog data mine"
+        ],
+        [
+            "gene express profil"
+        ],
+        [
+            "mlp"
+        ],
+        [
+            "sasom"
+        ],
+        [
+            "classif"
+        ]
+    ],
+    "134": [
+        [
+            "learn from heterogen data"
+        ],
+        [
+            "heterogen data"
+        ],
+        [
+            "semi-supervis learn"
+        ],
+        [
+            "genotyp"
+        ],
+        [
+            "increment learn"
+        ],
+        [
+            "statist"
+        ],
+        [
+            "re-sequenc"
+        ],
+        [
+            "low-level analysi"
+        ],
+        [
+            "transduct learn"
+        ],
+        [
+            "data mine"
+        ],
+        [
+            "low-level microarray analysi"
+        ],
+        [
+            "transcript discoveri"
+        ],
+        [
+            "microarray"
+        ],
+        [
+            "gene express estim"
+        ]
+    ],
+    "135": [
+        [
+            "object-ori"
+        ],
+        [
+            "ada95"
+        ],
+        [
+            "oo program"
+        ],
+        [
+            "measur"
+        ],
+        [
+            "depend"
+        ],
+        [
+            "cohes"
+        ]
+    ],
+    "136": [
+        [
+            "public administr"
+        ],
+        [
+            "measur"
+        ],
+        [
+            "benchmark"
+        ],
+        [
+            "evalu"
+        ],
+        [
+            "e-govern"
+        ],
+        [
+            "architectur"
+        ],
+        [
+            "interoper"
+        ],
+        [
+            "law"
+        ],
+        [
+            "busi process"
+        ]
+    ],
+    "137": [
+        [
+            "relat machin"
+        ],
+        [
+            "averag flow time"
+        ],
+        [
+            "multiprocessor environ"
+        ],
+        [
+            "non-migratori algorithm"
+        ],
+        [
+            "competit ratio"
+        ],
+        [
+            "poly-logarithm factor"
+        ],
+        [
+            "preemption"
+        ],
+        [
+            "approxim algorithm"
+        ],
+        [
+            "process time"
+        ],
+        [
+            "flow-tim"
+        ],
+        [
+            "schedul"
+        ]
+    ],
+    "138": [
+        [
+            "person inform manag"
+        ],
+        [
+            "inform dissemin"
+        ],
+        [
+            "user behavior model"
+        ]
+    ],
+    "139": [
+        [
+            "behavior design pattern"
+        ],
+        [
+            "color petri net"
+        ],
+        [
+            "softwar architectur"
+        ],
+        [
+            "comet"
+        ]
+    ],
+    "14": [
+        [
+            "algorithm"
+        ],
+        [
+            "inform extract"
+        ],
+        [
+            "metadata extract"
+        ],
+        [
+            "definit search"
+        ],
+        [
+            "featur"
+        ],
+        [
+            "expert find"
+        ],
+        [
+            "search need"
+        ],
+        [
+            "architectur"
+        ],
+        [
+            "experiment"
+        ],
+        [
+            "inform retriev"
+        ],
+        [
+            "intranet search"
+        ],
+        [
+            "inform desk"
+        ],
+        [
+            "human factor"
+        ],
+        [
+            "type of inform"
+        ],
+        [
+            "compon technolog"
+        ]
+    ],
+    "140": [
+        [
+            "sensor network"
+        ],
+        [
+            "random graph"
+        ],
+        [
+            "epidemiolog"
+        ],
+        [
+            "random key predistribut"
+        ]
+    ],
+    "141": [
+        [
+            "sensor network"
+        ],
+        [
+            "rout protocol"
+        ],
+        [
+            "adversari model"
+        ],
+        [
+            "provabl secur"
+        ],
+        [
+            "simulat"
+        ]
+    ],
+    "142": [
+        [
+            "obfusc"
+        ],
+        [
+            "databas privaci"
+        ]
+    ],
+    "143": [
+        [
+            "data integr system"
+        ],
+        [
+            "peer-to-p system"
+        ]
+    ],
+    "144": [
+        [
+            "resampl"
+        ],
+        [
+            "market share rule"
+        ],
+        [
+            "nonparametr method"
+        ],
+        [
+            "statist quantit rule"
+        ],
+        [
+            "rule discoveri"
+        ]
+    ],
+    "145": [
+        [
+            "heterogen cluster-bas sensor network"
+        ],
+        [
+            "wireless sensor network"
+        ],
+        [
+            "numer model"
+        ],
+        [
+            "voronoi cell"
+        ],
+        [
+            "energi optim"
+        ],
+        [
+            "optim transmiss rang"
+        ],
+        [
+            "cluster"
+        ],
+        [
+            "network lifetim"
+        ],
+        [
+            "optim"
+        ]
+    ],
+    "146": [
+        [
+            "architectur"
+        ],
+        [
+            "parallel crawler"
+        ],
+        [
+            "model evalu"
+        ],
+        [
+            "parallel"
+        ],
+        [
+            "web spider"
+        ],
+        [
+            "web crawler"
+        ],
+        [
+            "guidelin"
+        ]
+    ],
+    "147": [
+        [
+            "rlc configur"
+        ],
+        [
+            "wireless network"
+        ],
+        [
+            "3g wireless network"
+        ],
+        [
+            "network game"
+        ],
+        [
+            "loss-optim"
+        ],
+        [
+            "time critic data"
+        ],
+        [
+            "congest control"
+        ],
+        [
+            "proxi architectur"
+        ]
+    ],
+    "148": [
+        [
+            "dynam phenomena"
+        ],
+        [
+            "multipass render"
+        ],
+        [
+            "visual simul"
+        ],
+        [
+            "simul"
+        ],
+        [
+            "coupl map lattic"
+        ],
+        [
+            "graphic hardwar"
+        ],
+        [
+            "reaction-diffus"
+        ],
+        [
+            "cml"
+        ]
+    ],
+    "149": [
+        [
+            "haptic"
+        ],
+        [
+            "physiolog"
+        ],
+        [
+            "frame rate"
+        ],
+        [
+            "measur"
+        ],
+        [
+            "presenc"
+        ],
+        [
+            "virtual environ"
+        ]
+    ],
+    "15": [
+        [
+            "contextu inform"
+        ],
+        [
+            "logist regress"
+        ],
+        [
+            "regress model"
+        ],
+        [
+            "word boundari"
+        ],
+        [
+            "multi-word term"
+        ],
+        [
+            "statist formula"
+        ],
+        [
+            "word boundari identif"
+        ],
+        [
+            "chines text segment"
+        ],
+        [
+            "natur languag process"
+        ],
+        [
+            "mutual inform"
+        ]
+    ],
+    "150": [
+        [
+            "attribute-bas access control"
+        ],
+        [
+            "trust negoti"
+        ],
+        [
+            "privaci"
+        ]
+    ],
+    "151": [
+        [
+            "text model"
+        ],
+        [
+            "gibb sampl"
+        ],
+        [
+            "unsupervis learn"
+        ]
+    ],
+    "152": [
+        [
+            "speed"
+        ],
+        [
+            "accuraci"
+        ],
+        [
+            "usabl evalu"
+        ],
+        [
+            "usabl measur"
+        ],
+        [
+            "search user interfac"
+        ]
+    ],
+    "153": [
+        [
+            "3d model"
+        ],
+        [
+            "secur"
+        ],
+        [
+            "remot render"
+        ],
+        [
+            "digit right manag"
+        ]
+    ],
+    "154": [
+        [
+            "attent"
+        ],
+        [
+            "multi-mod person track"
+        ],
+        [
+            "human-robot-interact"
+        ]
+    ],
+    "155": [
+        [
+            "persuas"
+        ],
+        [
+            "advertis"
+        ],
+        [
+            "e-commerc"
+        ],
+        [
+            "person emot"
+        ]
+    ],
+    "156": [
+        [
+            "certif"
+        ],
+        [
+            "public verifi"
+        ],
+        [
+            "watermark"
+        ],
+        [
+            "relat databas"
+        ],
+        [
+            "ownership protect"
+        ]
+    ],
+    "157": [
+        [
+            "excerpt"
+        ],
+        [
+            "context"
+        ],
+        [
+            "conceptu model"
+        ],
+        [
+            "superimpos inform"
+        ],
+        [
+            "sparc ."
+        ],
+        [
+            "softwar architectur"
+        ]
+    ],
+    "158": [
+        [
+            "bnep protocol"
+        ],
+        [
+            "handoff"
+        ],
+        [
+            "resourc alloc"
+        ],
+        [
+            "qualiti of servic"
+        ],
+        [
+            "bluetooth-ip access system"
+        ]
+    ],
+    "159": [
+        [
+            "trec qa"
+        ],
+        [
+            "natur languag process"
+        ],
+        [
+            "inform extract"
+        ],
+        [
+            "question answer system"
+        ],
+        [
+            "automat qa"
+        ],
+        [
+            "facilit answer mine"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "inform retriev"
+        ],
+        [
+            "simpl passag rank"
+        ],
+        [
+            "rewrit queri"
+        ],
+        [
+            "n-gram extract techniqu"
+        ],
+        [
+            "redund in larg corpora"
+        ]
+    ],
+    "16": [
+        [
+            "program languag cours"
+        ],
+        [
+            "freshmen"
+        ],
+        [
+            "program methodolog"
+        ],
+        [
+            "laboratori compon"
+        ],
+        [
+            "formal grammar"
+        ],
+        [
+            "recurs"
+        ],
+        [
+            "function program"
+        ],
+        [
+            "program paradigm"
+        ],
+        [
+            "program languag"
+        ],
+        [
+            "comput scienc"
+        ],
+        [
+            "languag descript"
+        ],
+        [
+            "topic"
+        ],
+        [
+            "curriculum"
+        ]
+    ],
+    "160": [
+        [
+            "queri result rank"
+        ],
+        [
+            "algorithm"
+        ],
+        [
+            "mani queri result problem"
+        ],
+        [
+            "qrre"
+        ],
+        [
+            "human factor"
+        ],
+        [
+            "attribut weight assign"
+        ],
+        [
+            "attribut prefer"
+        ],
+        [
+            "pir"
+        ],
+        [
+            "attribut valu"
+        ],
+        [
+            "experiment"
+        ],
+        [
+            "e-commerc"
+        ],
+        [
+            "design"
+        ],
+        [
+            "rank the queri result"
+        ],
+        [
+            "e-commerc web databas"
+        ]
+    ],
+    "161": [
+        [
+            "web document"
+        ],
+        [
+            "queri classif"
+        ],
+        [
+            "task"
+        ],
+        [
+            "combin of multipl evid"
+        ],
+        [
+            "queri"
+        ],
+        [
+            "rate"
+        ],
+        [
+            "model"
+        ],
+        [
+            "ir"
+        ],
+        [
+            "url"
+        ],
+        [
+            "improv"
+        ],
+        [
+            "link inform"
+        ],
+        [
+            "url inform"
+        ],
+        [
+            "frequenc"
+        ],
+        [
+            "inform"
+        ]
+    ],
+    "162": [
+        [
+            "implement"
+        ],
+        [
+            "ridpad"
+        ],
+        [
+            "queri"
+        ],
+        [
+            "hyperlink"
+        ],
+        [
+            "document"
+        ],
+        [
+            "system"
+        ],
+        [
+            "bi-level queri"
+        ],
+        [
+            "superimpos inform manag"
+        ],
+        [
+            "sparc"
+        ],
+        [
+            "manag"
+        ],
+        [
+            "metaxpath"
+        ],
+        [
+            "inform integr"
+        ],
+        [
+            "inform"
+        ],
+        [
+            "superimpos"
+        ]
+    ],
+    "163": [
+        [
+            "valid with real trace"
+        ],
+        [
+            "packet sampl"
+        ],
+        [
+            "largest flow detect and rank"
+        ],
+        [
+            "perform evalu"
+        ]
+    ],
+    "164": [
+        [
+            "rank"
+        ],
+        [
+            "pagerank"
+        ],
+        [
+            "navig queri"
+        ],
+        [
+            "link analysi"
+        ]
+    ],
+    "165": [
+        [
+            "rank"
+        ],
+        [
+            "imag search"
+        ],
+        [
+            "web object"
+        ]
+    ],
+    "166": [
+        [
+            "social network"
+        ],
+        [
+            "inform share"
+        ]
+    ],
+    "167": [
+        [
+            "gi"
+        ],
+        [
+            "peer-to-p"
+        ],
+        [
+            "internet"
+        ],
+        [
+            "client/serv"
+        ]
+    ],
+    "168": [
+        [
+            "interact environ"
+        ],
+        [
+            "multimedia data"
+        ],
+        [
+            "research event"
+        ],
+        [
+            "explor"
+        ],
+        [
+            "insight"
+        ],
+        [
+            "spatio-tempor data"
+        ],
+        [
+            "event"
+        ]
+    ],
+    "169": [
+        [
+            "basic control structur"
+        ],
+        [
+            "cognit inform complex unit"
+        ],
+        [
+            "weight inform count"
+        ],
+        [
+            "cognit weight"
+        ],
+        [
+            "cognit inform complex measur"
+        ]
+    ],
+    "17": [
+        [
+            "inter-piconet commun"
+        ],
+        [
+            "schedul"
+        ],
+        [
+            "bluetooth"
+        ],
+        [
+            "network access point"
+        ],
+        [
+            "bridg unit"
+        ],
+        [
+            "slave"
+        ],
+        [
+            "pcss algorithm"
+        ],
+        [
+            "total util"
+        ],
+        [
+            "intens"
+        ],
+        [
+            "scatternet"
+        ],
+        [
+            "piconet"
+        ],
+        [
+            "checkpoint"
+        ],
+        [
+            "threshold"
+        ]
+    ],
+    "170": [
+        [
+            "embed system"
+        ],
+        [
+            "dynam link"
+        ],
+        [
+            "wireless sensor network"
+        ],
+        [
+            "oper system"
+        ],
+        [
+            "virtual machin"
+        ]
+    ],
+    "171": [
+        [
+            "sensor network"
+        ],
+        [
+            "debug"
+        ],
+        [
+            "simul"
+        ]
+    ],
+    "172": [
+        [
+            "data aggreg"
+        ],
+        [
+            "tod"
+        ],
+        [
+            "anycast"
+        ],
+        [
+            "structure-fre"
+        ]
+    ],
+    "173": [
+        [
+            "graph databas"
+        ],
+        [
+            "graph mine"
+        ],
+        [
+            "adi index structur"
+        ],
+        [
+            "subgraph mine"
+        ],
+        [
+            "df code"
+        ],
+        [
+            "edg tabl"
+        ],
+        [
+            "index"
+        ],
+        [
+            "frequent graph pattern"
+        ],
+        [
+            "adjac list represent"
+        ],
+        [
+            "memori base databas"
+        ],
+        [
+            "frequent graph pattern mine"
+        ],
+        [
+            "disk base databas"
+        ],
+        [
+            "gspan algorithm"
+        ]
+    ],
+    "174": [
+        [
+            "authent proxi"
+        ],
+        [
+            "ip multimedia subsystem"
+        ],
+        [
+            "foku im testb"
+        ],
+        [
+            "ap"
+        ],
+        [
+            "tl tunnel end point"
+        ],
+        [
+            "tl"
+        ],
+        [
+            "glms/xdm"
+        ],
+        [
+            "network authent function"
+        ],
+        [
+            "secur and privaci"
+        ],
+        [
+            "ip multimedia system"
+        ],
+        [
+            "naf"
+        ],
+        [
+            "gener authent architectur"
+        ],
+        [
+            "gener bootstrap architectur"
+        ],
+        [
+            "transport layer secur"
+        ],
+        [
+            "signal protocol"
+        ],
+        [
+            "gba"
+        ],
+        [
+            "im platform"
+        ],
+        [
+            "diamet proxi"
+        ]
+    ],
+    "175": [
+        [
+            "algorithm"
+        ],
+        [
+            "congest complex"
+        ],
+        [
+            "data aggreg"
+        ],
+        [
+            "commit tree"
+        ],
+        [
+            "commit forest"
+        ],
+        [
+            "secur aggreg"
+        ],
+        [
+            "secur hierarch data aggreg protocol"
+        ],
+        [
+            "result check"
+        ],
+        [
+            "in-network data"
+        ],
+        [
+            "sensor network"
+        ],
+        [
+            "aggreg commit"
+        ],
+        [
+            "queri dissemin"
+        ],
+        [
+            "aggreg"
+        ]
+    ],
+    "176": [
+        [
+            "design pattern"
+        ],
+        [
+            "message-ori middlewar model"
+        ],
+        [
+            "environment monitor applic"
+        ],
+        [
+            "wireless sensor network"
+        ],
+        [
+            "applic servic"
+        ],
+        [
+            "constraint and queri languag"
+        ],
+        [
+            "applic filter"
+        ],
+        [
+            "publish-subscrib paradigm"
+        ],
+        [
+            "context servic"
+        ],
+        [
+            "middlewar"
+        ],
+        [
+            "messag servic"
+        ]
+    ],
+    "177": [
+        [
+            "sensor network"
+        ],
+        [
+            "taxonomi"
+        ],
+        [
+            "broadcast authent"
+        ]
+    ],
+    "178": [
+        [
+            "microarray data analysi"
+        ],
+        [
+            "signific of gene rank"
+        ],
+        [
+            "gene select"
+        ],
+        [
+            "classif"
+        ]
+    ],
+    "179": [
+        [
+            "isosurfac"
+        ],
+        [
+            "contour tree"
+        ],
+        [
+            "topolog simplif"
+        ]
+    ],
+    "18": [
+        [
+            "robust"
+        ],
+        [
+            "degre of multipath"
+        ],
+        [
+            "packet-drop attack"
+        ],
+        [
+            "reliabl deliveri"
+        ],
+        [
+            "sensor network secur"
+        ],
+        [
+            "aggreg protocol"
+        ],
+        [
+            "single-path forward"
+        ],
+        [
+            "critic area"
+        ],
+        [
+            "malici node"
+        ],
+        [
+            "legitim node"
+        ],
+        [
+            "secur rout"
+        ],
+        [
+            "secur ad-hoc network rout protocol"
+        ],
+        [
+            "cluster key"
+        ],
+        [
+            "neighbor watch system"
+        ]
+    ],
+    "180": [
+        [
+            "simul of multivari integr"
+        ],
+        [
+            "option price"
+        ],
+        [
+            "lattic rule"
+        ],
+        [
+            "mont carlo and quasi-mont carlo method"
+        ]
+    ],
+    "181": [
+        [
+            "search engin"
+        ],
+        [
+            "smartcrawl"
+        ],
+        [
+            "implement"
+        ],
+        [
+            "extract algorithm"
+        ],
+        [
+            "hidden web content"
+        ],
+        [
+            "html form"
+        ],
+        [
+            "label extract"
+        ],
+        [
+            "architectur"
+        ],
+        [
+            "experiment"
+        ],
+        [
+            "inform retriev"
+        ],
+        [
+            "hidden web"
+        ],
+        [
+            "web crawler"
+        ]
+    ],
+    "182": [
+        [
+            "audio feedback"
+        ],
+        [
+            "braill"
+        ],
+        [
+            "indian languag"
+        ],
+        [
+            "visual impair"
+        ]
+    ],
+    "183": [
+        [
+            "3d navig"
+        ],
+        [
+            "3d visual"
+        ],
+        [
+            "camera control"
+        ],
+        [
+            "interact techniqu"
+        ],
+        [
+            "3d viewer"
+        ]
+    ],
+    "185": [
+        [
+            "multimod interact"
+        ],
+        [
+            "non-visu cue"
+        ],
+        [
+            "tactil display"
+        ],
+        [
+            "tacton"
+        ]
+    ],
+    "186": [
+        [
+            "algorithm"
+        ],
+        [
+            "wireless commun"
+        ],
+        [
+            "tcp"
+        ],
+        [
+            "predict model"
+        ],
+        [
+            "link and rate variat"
+        ],
+        [
+            "network"
+        ],
+        [
+            "architectur"
+        ],
+        [
+            "3g wireless"
+        ],
+        [
+            "congest solut"
+        ],
+        [
+            "simul result"
+        ],
+        [
+            "3g wireless link"
+        ],
+        [
+            "design"
+        ],
+        [
+            "perform evalu"
+        ]
+    ],
+    "188": [
+        [
+            "sql"
+        ],
+        [
+            "ansi-standard sql"
+        ],
+        [
+            "educ fundament"
+        ],
+        [
+            "teach in it"
+        ],
+        [
+            "dual environ"
+        ],
+        [
+            "oracl"
+        ],
+        [
+            "sql languag"
+        ],
+        [
+            "practic result"
+        ],
+        [
+            "student feedback"
+        ],
+        [
+            "sql server"
+        ],
+        [
+            "databas"
+        ],
+        [
+            "train vs. educ"
+        ],
+        [
+            "cours design"
+        ],
+        [
+            "databas system"
+        ]
+    ],
+    "189": [
+        [
+            "maximum entropi"
+        ],
+        [
+            "averag precis"
+        ],
+        [
+            "evalu"
+        ]
+    ],
+    "19": [
+        [
+            "gestur"
+        ],
+        [
+            "pattern recognit"
+        ],
+        [
+            "motion stream"
+        ],
+        [
+            "data stream"
+        ],
+        [
+            "singular valu decomposit"
+        ],
+        [
+            "similar measur"
+        ],
+        [
+            "segment"
+        ],
+        [
+            "eigenvalu"
+        ],
+        [
+            "recognit"
+        ],
+        [
+            "eigenvector"
+        ]
+    ],
+    "190": [
+        [
+            "semant web"
+        ],
+        [
+            "knowledg engin"
+        ],
+        [
+            "topic map"
+        ]
+    ],
+    "191": [
+        [
+            "gemm"
+        ],
+        [
+            "cell processor"
+        ],
+        [
+            "stencil"
+        ],
+        [
+            "fft"
+        ],
+        [
+            "three level memori"
+        ],
+        [
+            "spars matrix"
+        ],
+        [
+            "spmv"
+        ]
+    ],
+    "192": [
+        [
+            "domain engin"
+        ],
+        [
+            "softwar classif and identif"
+        ],
+        [
+            "compon repositori"
+        ],
+        [
+            "compon base engin"
+        ]
+    ],
+    "193": [
+        [
+            "preference-bas servic provis"
+        ],
+        [
+            "relax multipl ontolog"
+        ],
+        [
+            "select of the most use"
+        ],
+        [
+            "domain-specif understand of concept"
+        ],
+        [
+            "semant web"
+        ],
+        [
+            "discoveri of possibl servic"
+        ],
+        [
+            "tree-shap clip of ontolog"
+        ],
+        [
+            "ontolog resembl common knowledg"
+        ],
+        [
+            "person"
+        ],
+        [
+            "cooper servic discoveri"
+        ],
+        [
+            "web servic"
+        ],
+        [
+            "subsequ execut"
+        ],
+        [
+            "gener hierarchi of concept"
+        ],
+        [
+            "user profil"
+        ],
+        [
+            "univers descript discoveri and integr"
+        ],
+        [
+            "web servic definit languag"
+        ],
+        [
+            "the gener throughout ontolog"
+        ]
+    ],
+    "194": [
+        [
+            "identifi current topic of convers"
+        ],
+        [
+            "fring vocabulari"
+        ],
+        [
+            "languag model"
+        ],
+        [
+            "decreas probabl of unrel word"
+        ],
+        [
+            "immedi predict"
+        ],
+        [
+            "aac"
+        ],
+        [
+            "increas probabl of relat word"
+        ],
+        [
+            "commun rate"
+        ],
+        [
+            "predict window size"
+        ],
+        [
+            "topic model"
+        ],
+        [
+            "predict of fring word"
+        ],
+        [
+            "convers in the switchboard corpu"
+        ],
+        [
+            "core vocabulari"
+        ],
+        [
+            "word predict"
+        ],
+        [
+            "construct a new languag model"
+        ],
+        [
+            "accuraci of predict method"
+        ]
+    ],
+    "195": [
+        [
+            "coxian"
+        ],
+        [
+            "extend hierarch hidden markov model"
+        ],
+        [
+            "domain knowledg"
+        ],
+        [
+            "unifi and coher probabilist framework"
+        ],
+        [
+            "hierarch hidden markov model"
+        ],
+        [
+            "their semant share substructur"
+        ],
+        [
+            "topic transit detect"
+        ],
+        [
+            "model educ video content"
+        ],
+        [
+            "typic durat of import semant"
+        ],
+        [
+            "a varieti in direct style"
+        ],
+        [
+            "natur hierarch organ of video"
+        ],
+        [
+            "probabilist framework"
+        ],
+        [
+            "hierarch markov (semi-markov) model"
+        ],
+        [
+            "semant relationship of neighborhood scene"
+        ],
+        [
+            "coxian switch hidden semi-markov model"
+        ],
+        [
+            "educ video"
+        ],
+        [
+            "model tempor correl"
+        ],
+        [
+            "shot-bas semant classif"
+        ]
+    ],
+    "197": [
+        [
+            "metadata"
+        ],
+        [
+            "integr rank"
+        ],
+        [
+            "video segment"
+        ],
+        [
+            "rank method"
+        ],
+        [
+            "video search"
+        ],
+        [
+            "video index, relev rank"
+        ],
+        [
+            "video metadata"
+        ],
+        [
+            "neutral network base rank"
+        ],
+        [
+            "machin learn model"
+        ],
+        [
+            "ir-model"
+        ],
+        [
+            "content inform"
+        ],
+        [
+            "ir model base rank"
+        ],
+        [
+            "content-bas rank"
+        ],
+        [
+            "relev rank"
+        ],
+        [
+            "video retriev"
+        ],
+        [
+            "content-bas relev rank"
+        ],
+        [
+            "segment"
+        ],
+        [
+            "learn base rank"
+        ],
+        [
+            "content-bas approach"
+        ]
+    ],
+    "198": [
+        [
+            "polici languag"
+        ],
+        [
+            "multipl polici languag"
+        ],
+        [
+            "polici languag properti"
+        ],
+        [
+            "comtemporari polici"
+        ],
+        [
+            "access control"
+        ],
+        [
+            "reason properti"
+        ],
+        [
+            "first order logic"
+        ],
+        [
+            "polici languagu"
+        ],
+        [
+            "polici combin"
+        ],
+        [
+            "common featur"
+        ],
+        [
+            "formal"
+        ],
+        [
+            "polici decomposit"
+        ],
+        [
+            "properti"
+        ],
+        [
+            "polici"
+        ],
+        [
+            "secur"
+        ],
+        [
+            "lithium"
+        ],
+        [
+            "modular"
+        ],
+        [
+            "access-control polici"
+        ],
+        [
+            "xacml"
+        ]
+    ],
+    "199": [
+        [
+            "topic structur identif"
+        ],
+        [
+            "topic analysi"
+        ],
+        [
+            "text mine"
+        ],
+        [
+            "time-stamp base discount learn algorithm"
+        ],
+        [
+            "time-stamp base learn algorithm"
+        ],
+        [
+            "dynam model select"
+        ],
+        [
+            "data mine"
+        ],
+        [
+            "topic trend"
+        ],
+        [
+            "inform gain"
+        ],
+        [
+            "text data stream"
+        ],
+        [
+            "topic character"
+        ],
+        [
+            "topic emerg detect"
+        ],
+        [
+            "crm"
+        ],
+        [
+            "finit mixtur model"
+        ],
+        [
+            "model select"
+        ],
+        [
+            "topic detect and track"
+        ],
+        [
+            "track dynam"
+        ]
+    ],
+    "2": [
+        [
+            "incid respons plan"
+        ],
+        [
+            "inform system"
+        ],
+        [
+            "inform secur manag"
+        ],
+        [
+            "data protect procedur"
+        ],
+        [
+            "busi practis and polici"
+        ],
+        [
+            "secur breach"
+        ],
+        [
+            "case of inform theft"
+        ],
+        [
+            "inform secur"
+        ],
+        [
+            "cyber crime"
+        ],
+        [
+            "encrypt"
+        ],
+        [
+            "privaci"
+        ],
+        [
+            "data protect"
+        ],
+        [
+            "manag issu"
+        ],
+        [
+            "confidenti inform"
+        ],
+        [
+            "theft of inform"
+        ],
+        [
+            "person inform"
+        ],
+        [
+            "risk analysi"
+        ],
+        [
+            "human factor"
+        ],
+        [
+            "secur manag"
+        ]
+    ],
+    "20": [
+        [
+            "group work"
+        ],
+        [
+            "collabor"
+        ],
+        [
+            "survey"
+        ],
+        [
+            "collabor inform seek"
+        ],
+        [
+            "inform seek"
+        ],
+        [
+            "academ research"
+        ],
+        [
+            "commun media"
+        ]
+    ],
+    "200": [
+        [
+            "surrog agent"
+        ],
+        [
+            "transact"
+        ],
+        [
+            "comput fault"
+        ],
+        [
+            "fault-toler agent"
+        ],
+        [
+            "mobil agent"
+        ],
+        [
+            "transact process"
+        ],
+        [
+            "transact agent"
+        ],
+        [
+            "acid transact"
+        ],
+        [
+            "fault-toler"
+        ]
+    ],
+    "201": [
+        [
+            "clir servic"
+        ],
+        [
+            "web mine"
+        ],
+        [
+            "digit librari"
+        ],
+        [
+            "context vector analysi"
+        ],
+        [
+            "term translat"
+        ],
+        [
+            "inform search and retriev"
+        ],
+        [
+            "web-bas term translat approach"
+        ],
+        [
+            "pat-tre base local maxima algorithm"
+        ],
+        [
+            "term extract"
+        ],
+        [
+            "cross-languag inform retriev"
+        ],
+        [
+            "bilingu lexicon construct"
+        ],
+        [
+            "unknown cross-lingu queri"
+        ],
+        [
+            "translat dictionari"
+        ]
+    ],
+    "202": [
+        [
+            "type-index function"
+        ],
+        [
+            "type class"
+        ],
+        [
+            "gener program"
+        ]
+    ],
+    "203": [
+        [
+            "servic robot develop"
+        ],
+        [
+            "uml"
+        ],
+        [
+            "softwar engin"
+        ],
+        [
+            "object-ori analysi and design method"
+        ]
+    ],
+    "204": [
+        [
+            "distribut inform retriev"
+        ],
+        [
+            "resourc select"
+        ]
+    ],
+    "205": [
+        [
+            "cellular network"
+        ],
+        [
+            "unwant traffic"
+        ],
+        [
+            "3g"
+        ]
+    ],
+    "206": [
+        [
+            "rank"
+        ],
+        [
+            "recommend"
+        ],
+        [
+            "learn object"
+        ],
+        [
+            "attent metadata"
+        ]
+    ],
+    "207": [
+        [
+            "defect densiti"
+        ],
+        [
+            "princip compon analysi"
+        ],
+        [
+            "fault-pron"
+        ],
+        [
+            "rel code churn"
+        ],
+        [
+            "multipl regress"
+        ]
+    ],
+    "208": [
+        [
+            "3g resourc manag"
+        ],
+        [
+            "servic level agreement"
+        ],
+        [
+            "intellig agent and case-bas reason"
+        ]
+    ],
+    "209": [
+        [
+            "busi process model"
+        ],
+        [
+            "role model"
+        ],
+        [
+            "busi object"
+        ],
+        [
+            "organiz engin"
+        ]
+    ],
+    "21": [
+        [
+            "calm comput"
+        ],
+        [
+            "high throughput textual display"
+        ],
+        [
+            "ambient display"
+        ],
+        [
+            "notif system"
+        ],
+        [
+            "peripher display"
+        ],
+        [
+            "notif system and peripher display"
+        ],
+        [
+            "framework to understand design attribut"
+        ],
+        [
+            "ubiquit comput"
+        ],
+        [
+            "four main design pattern"
+        ],
+        [
+            "inform monitor display"
+        ],
+        [
+            "design guidelin"
+        ],
+        [
+            "symbol sculptur display"
+        ],
+        [
+            "taxonomi"
+        ],
+        [
+            "user interfac"
+        ],
+        [
+            "multiple-inform consolid"
+        ],
+        [
+            "definit and characterist of ambient system"
+        ],
+        [
+            "ambient inform system"
+        ]
+    ],
+    "210": [
+        [
+            "queri gener"
+        ],
+        [
+            "user model"
+        ],
+        [
+            "inform agent"
+        ]
+    ],
+    "211": [
+        [
+            "mpeg-2"
+        ],
+        [
+            "transcod"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "inter-fram"
+        ],
+        [
+            "h.264"
+        ]
+    ],
+    "212": [
+        [
+            "real-tim stream"
+        ],
+        [
+            "stream for move user"
+        ],
+        [
+            "rate adapt"
+        ],
+        [
+            "mobil multimedia servic"
+        ]
+    ],
+    "213": [
+        [
+            "ontolog map"
+        ],
+        [
+            "taxonomi integr"
+        ],
+        [
+            "semant web"
+        ],
+        [
+            "bootstrap"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "boost"
+        ],
+        [
+            "classif"
+        ]
+    ],
+    "214": [
+        [
+            "web search"
+        ],
+        [
+            "non-standard encod"
+        ],
+        [
+            "indian languag"
+        ]
+    ],
+    "215": [
+        [
+            "focus crawler"
+        ],
+        [
+            "digit librari"
+        ],
+        [
+            "acm"
+        ],
+        [
+            "harvest"
+        ],
+        [
+            "dblp"
+        ],
+        [
+            "cites"
+        ]
+    ],
+    "22": [
+        [
+            "inform extract"
+        ],
+        [
+            "query-bas sampl"
+        ],
+        [
+            "search interfac page"
+        ],
+        [
+            "web page templat"
+        ],
+        [
+            "document sampl"
+        ],
+        [
+            "string match techniqu"
+        ],
+        [
+            "neighbour adjac tag segment"
+        ],
+        [
+            "irrelav inform extract"
+        ],
+        [
+            "hidden web databas"
+        ],
+        [
+            "2-phase sampl techniqu"
+        ],
+        [
+            "hypertext markup langaug"
+        ]
+    ],
+    "23": [
+        [
+            "provid revenu"
+        ],
+        [
+            "packet schedul"
+        ],
+        [
+            "admiss control in mobil system"
+        ],
+        [
+            "price and revenu optim"
+        ],
+        [
+            "packet loss probabl"
+        ],
+        [
+            "admiss control"
+        ],
+        [
+            "3g mobil network"
+        ],
+        [
+            "adapt perform manag"
+        ],
+        [
+            "price polici"
+        ],
+        [
+            "perform evalu of next gener mobil system"
+        ],
+        [
+            "qualiti of servic in mobil system"
+        ],
+        [
+            "qo"
+        ]
+    ],
+    "24": [
+        [
+            "retriev system"
+        ],
+        [
+            "compon librari"
+        ],
+        [
+            "weight rank algorithm"
+        ],
+        [
+            "match degre"
+        ],
+        [
+            "and compon librari"
+        ],
+        [
+            "compon retriev"
+        ],
+        [
+            "rank algorithm"
+        ],
+        [
+            "facet-bas compon retriev"
+        ],
+        [
+            "facet"
+        ],
+        [
+            "compon rank"
+        ]
+    ],
+    "25": [
+        [
+            "url"
+        ],
+        [
+            "href link"
+        ],
+        [
+            "focus crawler"
+        ],
+        [
+            "classifi"
+        ],
+        [
+            "dom"
+        ],
+        [
+            "focus crawl"
+        ],
+        [
+            "taxonomi"
+        ],
+        [
+            "reinforc learn"
+        ],
+        [
+            "document object model"
+        ]
+    ],
+    "26": [
+        [
+            "visual"
+        ],
+        [
+            "hardwar acceler"
+        ],
+        [
+            "filter"
+        ],
+        [
+            "volum visual"
+        ],
+        [
+            "convolut"
+        ],
+        [
+            "volum render"
+        ],
+        [
+            "3d convolut"
+        ]
+    ],
+    "27": [
+        [
+            "recommend system"
+        ],
+        [
+            "agent technolog"
+        ],
+        [
+            "intellig and person filter"
+        ],
+        [
+            "ubiquit access"
+        ],
+        [
+            "evolut"
+        ],
+        [
+            "person inform agent"
+        ],
+        [
+            "agent-bas deploy applic"
+        ],
+        [
+            "adapt and learn"
+        ],
+        [
+            "agent and complex system"
+        ],
+        [
+            "filter"
+        ]
+    ],
+    "28": [
+        [
+            "knowledg represent"
+        ],
+        [
+            "natur languag inform retriev"
+        ],
+        [
+            "spread activ"
+        ],
+        [
+            "queri expans"
+        ],
+        [
+            "natur languag queri"
+        ],
+        [
+            "knowledg represent model"
+        ],
+        [
+            "associ network"
+        ],
+        [
+            "constrain spread activ"
+        ],
+        [
+            "multilingu inform retriev system"
+        ]
+    ],
+    "29": [
+        [
+            "traffic model"
+        ],
+        [
+            "self-similar traffic"
+        ],
+        [
+            "umt"
+        ],
+        [
+            "queu model"
+        ],
+        [
+            "3g network"
+        ],
+        [
+            "wireless ip traffic"
+        ],
+        [
+            "self-similar"
+        ],
+        [
+            "ggsn"
+        ],
+        [
+            "3g"
+        ],
+        [
+            "qo"
+        ]
+    ],
+    "3": [
+        [
+            "meta-languag"
+        ],
+        [
+            "comput aid reason"
+        ],
+        [
+            "program languag"
+        ],
+        [
+            "program languag experiment"
+        ],
+        [
+            "metaprl"
+        ],
+        [
+            "high order abstract syntax"
+        ],
+        [
+            "meta-syntax"
+        ],
+        [
+            "formal definit and theori"
+        ],
+        [
+            "substitut"
+        ],
+        [
+            "nuprl"
+        ],
+        [
+            "reflect reason"
+        ],
+        [
+            "type theori"
+        ],
+        [
+            "nuprl-lik martin-lof-styl comput type theori"
+        ],
+        [
+            "higher-ord abstract syntax"
+        ],
+        [
+            "system reflect"
+        ],
+        [
+            "theorem prover"
+        ],
+        [
+            "meta-reason"
+        ],
+        [
+            "hoas-styl oper"
+        ],
+        [
+            "uniform reflect framework"
+        ],
+        [
+            "theori of syntax"
+        ],
+        [
+            "languag with bind"
+        ],
+        [
+            "runtim code gener"
+        ],
+        [
+            "recurs definit"
+        ],
+        [
+            "bruijn-styl oper"
+        ],
+        [
+            "formal languag"
+        ],
+        [
+            "reflect"
+        ],
+        [
+            "metaprl theorem prover"
+        ]
+    ],
+    "30": [
+        [
+            "collect call"
+        ],
+        [
+            "asymmetr parallel comput"
+        ],
+        [
+            "softwar engin"
+        ],
+        [
+            "adapt"
+        ],
+        [
+            "mpi"
+        ],
+        [
+            "load balanc"
+        ],
+        [
+            "high-perform comput"
+        ],
+        [
+            "asymamtr parallel comput"
+        ],
+        [
+            "commun protocol"
+        ]
+    ],
+    "31": [
+        [
+            "perform evalu"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "biolog data"
+        ],
+        [
+            "bioinformat"
+        ],
+        [
+            "train data"
+        ],
+        [
+            "supervis machin learn"
+        ],
+        [
+            "ensembl method"
+        ],
+        [
+            "cross valid"
+        ],
+        [
+            "classif"
+        ]
+    ],
+    "32": [
+        [
+            "web cach"
+        ],
+        [
+            "c applic"
+        ],
+        [
+            "binari code"
+        ],
+        [
+            "aspect languag"
+        ],
+        [
+            "network protocol"
+        ],
+        [
+            "buffer overflow"
+        ],
+        [
+            "system applic"
+        ],
+        [
+            "sequenc pointcut"
+        ],
+        [
+            "dynam weav"
+        ],
+        [
+            "prefetch"
+        ],
+        [
+            "arachn"
+        ],
+        [
+            "oper system"
+        ]
+    ],
+    "33": [
+        [
+            "b2c websit"
+        ],
+        [
+            "qualiti evalu index"
+        ],
+        [
+            "index optim"
+        ],
+        [
+            "r-hierarch cluster"
+        ],
+        [
+            "correl index"
+        ],
+        [
+            "system perform"
+        ],
+        [
+            "busi websit"
+        ],
+        [
+            "representit index"
+        ],
+        [
+            "r-hierarch cluster method"
+        ],
+        [
+            "e-commerc"
+        ],
+        [
+            "fuzzi analysi"
+        ],
+        [
+            "evalu system"
+        ],
+        [
+            "cluster"
+        ],
+        [
+            "qualiti synthesi evalu"
+        ]
+    ],
+    "34": [
+        [
+            "comput graphic"
+        ],
+        [
+            "visual"
+        ],
+        [
+            "record 3d manipul"
+        ],
+        [
+            "3d interact"
+        ],
+        [
+            "virtual tool"
+        ],
+        [
+            "anim synchron"
+        ],
+        [
+            "object-ori graphic"
+        ],
+        [
+            "dynam model"
+        ],
+        [
+            "local propag constraint"
+        ],
+        [
+            "data reduct"
+        ],
+        [
+            "3d anim"
+        ],
+        [
+            "human interact"
+        ],
+        [
+            "3d user interfac"
+        ],
+        [
+            "3d anim environ"
+        ],
+        [
+            "multi-way constrain architectur"
+        ],
+        [
+            "3d widget"
+        ]
+    ],
+    "35": [
+        [
+            "effici test"
+        ],
+        [
+            "databas test"
+        ],
+        [
+            "dot-unit"
+        ],
+        [
+            "databas"
+        ],
+        [
+            "improv for the intension test case"
+        ],
+        [
+            "perform test"
+        ],
+        [
+            "test framework"
+        ],
+        [
+            "test for databas system"
+        ],
+        [
+            "lesser programm effort for test case"
+        ],
+        [
+            "intension test case"
+        ],
+        [
+            "queri base languag"
+        ],
+        [
+            "seamless integr"
+        ],
+        [
+            "softwar test"
+        ]
+    ],
+    "36": [
+        [
+            "visual capabl"
+        ],
+        [
+            "self-organ map"
+        ],
+        [
+            "data mine"
+        ],
+        [
+            "3g network"
+        ],
+        [
+            "mobil manag"
+        ],
+        [
+            "hierarch cluster"
+        ],
+        [
+            "neural network"
+        ],
+        [
+            "key perform indic of handov"
+        ],
+        [
+            "neural network algorithm"
+        ],
+        [
+            "histogram"
+        ],
+        [
+            "cluster analysi"
+        ],
+        [
+            "soft handov"
+        ],
+        [
+            "decreas in comput complex"
+        ],
+        [
+            "two-phas cluster algorithm"
+        ]
+    ],
+    "37": [
+        [
+            "aop"
+        ],
+        [
+            "oop"
+        ],
+        [
+            "aspect orient program"
+        ],
+        [
+            "object orient program"
+        ],
+        [
+            "aspect orient program applic"
+        ],
+        [
+            "program paradigm comparison"
+        ],
+        [
+            "develop process experi metric"
+        ],
+        [
+            "evalu"
+        ],
+        [
+            "program paradigm"
+        ],
+        [
+            "component-bas applic"
+        ],
+        [
+            "case studi"
+        ],
+        [
+            "web crawler implement"
+        ],
+        [
+            "softwar develop process experi"
+        ]
+    ],
+    "38": [
+        [
+            "synopsi diffus aggreg framework"
+        ],
+        [
+            "falsifi local valu attack"
+        ],
+        [
+            "in-network data aggreg"
+        ],
+        [
+            "data aggreg"
+        ],
+        [
+            "sensor network secur"
+        ],
+        [
+            "hierarch aggreg"
+        ],
+        [
+            "synopsi diffus"
+        ],
+        [
+            "node compromis prevent"
+        ],
+        [
+            "sum aggreg"
+        ],
+        [
+            "robust aggreg"
+        ],
+        [
+            "attack resili heirarch data aggreg"
+        ],
+        [
+            "count aggreg"
+        ],
+        [
+            "sensor network"
+        ],
+        [
+            "falsifi sub-aggreg attack"
+        ],
+        [
+            "network aggreg algorithm"
+        ],
+        [
+            "attack-resili"
+        ]
+    ],
+    "39": [
+        [
+            "multimod"
+        ],
+        [
+            "multimedia fusion"
+        ],
+        [
+            "images, video and audio technolog"
+        ],
+        [
+            "rich video clip and flash"
+        ],
+        [
+            "repres media"
+        ],
+        [
+            "documentari and movi"
+        ],
+        [
+            "event cluster"
+        ],
+        [
+            "subject multipl event"
+        ],
+        [
+            "high-level semant"
+        ],
+        [
+            "storyboard"
+        ],
+        [
+            "commun and multimedia"
+        ],
+        [
+            "multi-mod inform"
+        ],
+        [
+            "multimedia author"
+        ],
+        [
+            "gener storyboard"
+        ],
+        [
+            "rich present"
+        ]
+    ],
+    "4": [
+        [
+            "statist databas secur"
+        ],
+        [
+            "secur plan"
+        ],
+        [
+            "access privileg system"
+        ],
+        [
+            "undergradu cours"
+        ],
+        [
+            "hands-on"
+        ],
+        [
+            "real life databas hands-on"
+        ],
+        [
+            "right blend of theori and practic"
+        ],
+        [
+            "administr"
+        ],
+        [
+            "secur inform"
+        ],
+        [
+            "statist secur"
+        ],
+        [
+            "privaci issu"
+        ],
+        [
+            "mysql secur"
+        ],
+        [
+            "databas system"
+        ],
+        [
+            "assign"
+        ],
+        [
+            "secur breach"
+        ],
+        [
+            "hands-on experi"
+        ],
+        [
+            "databas secur cours"
+        ],
+        [
+            "xml secur"
+        ],
+        [
+            "cryptographi"
+        ],
+        [
+            "laboratory/act learn"
+        ],
+        [
+            "lab"
+        ],
+        [
+            "databas secur plan"
+        ],
+        [
+            "high risk of sensit inform"
+        ],
+        [
+            "databas privaci"
+        ],
+        [
+            "data access"
+        ],
+        [
+            "real life databas secur"
+        ],
+        [
+            "databas secur"
+        ],
+        [
+            "few databas secur cours"
+        ],
+        [
+            "undergradu databas secur cours"
+        ],
+        [
+            "undergradu student"
+        ],
+        [
+            "oracl secur"
+        ],
+        [
+            "databas secur educ"
+        ],
+        [
+            "topic"
+        ],
+        [
+            "import of databas secur"
+        ]
+    ],
+    "40": [
+        [
+            "file extract"
+        ],
+        [
+            "gener languag"
+        ],
+        [
+            "file format"
+        ],
+        [
+            "inform extract"
+        ],
+        [
+            "metadata extract"
+        ],
+        [
+            "powerpoint document"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "inform search and retriev"
+        ],
+        [
+            "search rank result"
+        ],
+        [
+            "precis extract"
+        ],
+        [
+            "search"
+        ],
+        [
+            "digit copi"
+        ],
+        [
+            "microsoft offic autom"
+        ],
+        [
+            "metadata process"
+        ],
+        [
+            "extract"
+        ]
+    ],
+    "41": [
+        [
+            "node recoveri"
+        ],
+        [
+            "wireless sensor network"
+        ],
+        [
+            "sensor node"
+        ],
+        [
+            "intrus detect"
+        ],
+        [
+            "countermeasur"
+        ],
+        [
+            "secur"
+        ],
+        [
+            "sensor network"
+        ],
+        [
+            "id"
+        ],
+        [
+            "distribut algorithm"
+        ]
+    ],
+    "42": [
+        [
+            "gaussian process"
+        ],
+        [
+            "perceptron"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "inform gain"
+        ],
+        [
+            "text classif"
+        ],
+        [
+            "bayesian"
+        ],
+        [
+            "onlin"
+        ],
+        [
+            "bayesian onlin classifi"
+        ],
+        [
+            "filter"
+        ],
+        [
+            "text filter"
+        ],
+        [
+            "contin learn"
+        ]
+    ],
+    "43": [
+        [
+            "search engin"
+        ],
+        [
+            "relev"
+        ],
+        [
+            "ranknet"
+        ],
+        [
+            "static rank"
+        ],
+        [
+            "frank"
+        ],
+        [
+            "pagerank"
+        ],
+        [
+            "static featur"
+        ],
+        [
+            "anchor text"
+        ],
+        [
+            "pairwis accuraci"
+        ],
+        [
+            "popular data"
+        ],
+        [
+            "dynam rank"
+        ],
+        [
+            "web page"
+        ]
+    ],
+    "44": [
+        [
+            "black-box"
+        ],
+        [
+            "secur comput"
+        ],
+        [
+            "black-box reduct"
+        ],
+        [
+            "malici adversari"
+        ],
+        [
+            "oblivi transfer"
+        ],
+        [
+            "theori of cryptographi"
+        ],
+        [
+            "encrypt scheme"
+        ],
+        [
+            "nonblack-box"
+        ],
+        [
+            "trapdoor permut"
+        ],
+        [
+            "oblivi transfer protocol"
+        ],
+        [
+            "cryptograph"
+        ]
+    ],
+    "45": [
+        [
+            "coexist"
+        ],
+        [
+            "intefer"
+        ],
+        [
+            "mac schedul"
+        ],
+        [
+            "bluetooth"
+        ],
+        [
+            "wpan"
+        ],
+        [
+            "schedul prioriti"
+        ],
+        [
+            "bia"
+        ],
+        [
+            "wlan"
+        ],
+        [
+            "interfer"
+        ],
+        [
+            "dynam schedul"
+        ],
+        [
+            "qo"
+        ]
+    ],
+    "46": [
+        [
+            "crawl order"
+        ],
+        [
+            "breadth first search"
+        ],
+        [
+            "page qualiti metric"
+        ],
+        [
+            "order metric"
+        ],
+        [
+            "pagerank"
+        ],
+        [
+            "crawl"
+        ],
+        [
+            "high qualiti page"
+        ],
+        [
+            "breadth-first search"
+        ],
+        [
+            "connectivity-bas metric"
+        ]
+    ],
+    "47": [
+        [
+            "identif is fundament"
+        ],
+        [
+            "distribut frequenc of variou catogori"
+        ],
+        [
+            "instant messag"
+        ],
+        [
+            "name variat handl"
+        ],
+        [
+            "msn messag"
+        ],
+        [
+            "relat im research"
+        ],
+        [
+            "commun"
+        ],
+        [
+            "display name"
+        ],
+        [
+            "instant messeng"
+        ],
+        [
+            "broadcast inform"
+        ],
+        [
+            "catorgoris of display name"
+        ],
+        [
+            "commun catogori"
+        ],
+        [
+            "awar"
+        ]
+    ],
+    "48": [
+        [
+            "it is a subject of studi both for itself and for the manner in which it illumin contemporari social phenomena. yet a research who wish to studi the web is face with major difficulties. an obviou problem is that the web is huge. ani studi of the web as a whole must be prepar to analyz billion of page and hundr of terabyt of data. furthermor"
+        ],
+        [
+            "dataflow"
+        ],
+        [
+            "digit librari"
+        ],
+        [
+            "internet archive. 1. background 1.1 research in the histori of the web the web is one of the most interest artifact of our time. for social scientist"
+        ],
+        [
+            "user support"
+        ],
+        [
+            "scalabl"
+        ],
+        [
+            "basic paramet are hard to come by and it is almost imposs to gener random sampl for statist purposes. but the biggest problem that social scientist face in carri out web research is histor"
+        ],
+        [
+            "internet archiv"
+        ],
+        [
+            "databas access"
+        ],
+        [
+            "full text index"
+        ],
+        [
+            "comput social scienc"
+        ],
+        [
+            "the web chang continually. it is never possibl to repeat a studi on the actual web with quit the same data. ani snapshot of the whole web requir a crawl that will take sever week to gather data. becaus the size and boundari of the web are ill defin"
+        ],
+        [
+            "the desir to track activ across time. the web of today can be studi by direct web crawl"
+        ],
+        [
+            "flexibl preload system"
+        ],
+        [
+            "histori of the web"
+        ],
+        [
+            "databas manag"
+        ],
+        [
+            "user interfac"
+        ],
+        [
+            "or via tool such as the googl web api"
+        ],
+        [
+            "storag"
+        ]
+    ],
+    "49": [
+        [
+            "oral histori"
+        ],
+        [
+            "comput educ histori"
+        ]
+    ],
+    "5": [
+        [
+            "bio-comput"
+        ],
+        [
+            "fault toler"
+        ],
+        [
+            "nano comput"
+        ],
+        [
+            "emerg technolog"
+        ],
+        [
+            "digit devic"
+        ],
+        [
+            "nanoelectron"
+        ],
+        [
+            "error detect"
+        ],
+        [
+            "correct techniqu"
+        ],
+        [
+            "evolv hardwar"
+        ],
+        [
+            "comput architectur"
+        ],
+        [
+            "environ"
+        ],
+        [
+            "bio-inspir digit design"
+        ],
+        [
+            "comput system"
+        ],
+        [
+            "failur rate"
+        ],
+        [
+            "bio-inspir comput"
+        ],
+        [
+            "querist"
+        ],
+        [
+            "reliabl"
+        ],
+        [
+            "depend system"
+        ],
+        [
+            "fault-toler assess"
+        ],
+        [
+            "embryon"
+        ],
+        [
+            "self repair"
+        ],
+        [
+            "soft error"
+        ],
+        [
+            "self replic"
+        ],
+        [
+            "quantum comput"
+        ],
+        [
+            "system design"
+        ],
+        [
+            "comput technolog"
+        ],
+        [
+            "depend"
+        ]
+    ],
+    "50": [
+        [
+            "computer commun inform system"
+        ],
+        [
+            "commun network"
+        ],
+        [
+            "skatehold involv"
+        ],
+        [
+            "sustain"
+        ],
+        [
+            "construct of technolog"
+        ],
+        [
+            "participatori design"
+        ],
+        [
+            "key player"
+        ],
+        [
+            "critic mass"
+        ]
+    ],
+    "51": [
+        [
+            "spam filter"
+        ],
+        [
+            "game theori"
+        ],
+        [
+            "secur metric"
+        ],
+        [
+            "integr"
+        ],
+        [
+            "exploratori attack"
+        ],
+        [
+            "comput network"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "intrus detect system"
+        ],
+        [
+            "intrus detect"
+        ],
+        [
+            "statist learn"
+        ],
+        [
+            "comput secur"
+        ],
+        [
+            "adversari learn"
+        ],
+        [
+            "learn algorithm"
+        ],
+        [
+            "secur"
+        ],
+        [
+            "target attack"
+        ],
+        [
+            "indiscrimin attack"
+        ],
+        [
+            "caus attack"
+        ],
+        [
+            "avail"
+        ]
+    ],
+    "52": [
+        [
+            "interact inform retriev system"
+        ],
+        [
+            "2d system"
+        ],
+        [
+            "venn diagram"
+        ],
+        [
+            "catnaccio system"
+        ],
+        [
+            "visual inform retriev"
+        ],
+        [
+            "interact system"
+        ],
+        [
+            "sketch manipul"
+        ],
+        [
+            "inform retriev"
+        ],
+        [
+            "imag data"
+        ],
+        [
+            "keyword search"
+        ],
+        [
+            "inform node"
+        ],
+        [
+            "pen-bas comput"
+        ]
+    ],
+    "53": [
+        [
+            "optimis"
+        ],
+        [
+            "search engin"
+        ],
+        [
+            "integ compress"
+        ],
+        [
+            "index compress"
+        ],
+        [
+            "retriev effici"
+        ],
+        [
+            "bytewis compress"
+        ],
+        [
+            "variabl byte"
+        ],
+        [
+            "integ code"
+        ],
+        [
+            "compress"
+        ],
+        [
+            "document retriev"
+        ],
+        [
+            "effici"
+        ],
+        [
+            "invert index"
+        ],
+        [
+            "decod"
+        ]
+    ],
+    "54": [
+        [
+            "conflict hypergraph"
+        ],
+        [
+            "queri process"
+        ],
+        [
+            "denial constraint"
+        ],
+        [
+            "consist queri answer"
+        ],
+        [
+            "relat algebra"
+        ],
+        [
+            "repair"
+        ],
+        [
+            "knowledg gather"
+        ],
+        [
+            "inconsist"
+        ],
+        [
+            "integr constraint"
+        ],
+        [
+            "inconsist databas"
+        ],
+        [
+            "polynomi time"
+        ],
+        [
+            "optim"
+        ],
+        [
+            "disjunct queri"
+        ]
+    ],
+    "55": [
+        [
+            "databas schema"
+        ],
+        [
+            "consist queri answer"
+        ],
+        [
+            "inconsist"
+        ],
+        [
+            "conjunct queri"
+        ],
+        [
+            "integr constraint"
+        ],
+        [
+            "comput complex"
+        ],
+        [
+            "relat databas"
+        ],
+        [
+            "inconsist databas"
+        ],
+        [
+            "queri rewrit"
+        ]
+    ],
+    "56": [
+        [
+            "web inform system"
+        ],
+        [
+            "sitelang"
+        ],
+        [
+            "usabl"
+        ],
+        [
+            "media type"
+        ],
+        [
+            "web servic"
+        ],
+        [
+            "scene"
+        ],
+        [
+            "web site"
+        ],
+        [
+            "scenario"
+        ],
+        [
+            "stori board"
+        ],
+        [
+            "media object"
+        ],
+        [
+            "context-awar inform system"
+        ],
+        [
+            "context-awar"
+        ]
+    ],
+    "57": [
+        [
+            "reconstruct"
+        ],
+        [
+            "contour"
+        ],
+        [
+            "imag"
+        ],
+        [
+            "object"
+        ],
+        [
+            "symmetri"
+        ],
+        [
+            "estim"
+        ],
+        [
+            "object recognit"
+        ],
+        [
+            "occlus"
+        ],
+        [
+            "recognit"
+        ]
+    ],
+    "58": [
+        [
+            "coolcat"
+        ],
+        [
+            "data stream"
+        ],
+        [
+            "cluster"
+        ],
+        [
+            "entropi"
+        ],
+        [
+            "increment algorithm"
+        ],
+        [
+            "categor cluster"
+        ]
+    ],
+    "59": [
+        [
+            "intransit relat"
+        ],
+        [
+            "reusabl"
+        ],
+        [
+            "binari quantiti"
+        ],
+        [
+            "spearman rank correl"
+        ],
+        [
+            "search engin technolog"
+        ],
+        [
+            "cohes metric"
+        ],
+        [
+            "coupl"
+        ],
+        [
+            "experimentari compars"
+        ],
+        [
+            "java compon"
+        ],
+        [
+            "compon search engin"
+        ],
+        [
+            "linear regress"
+        ],
+        [
+            "cohes"
+        ]
+    ],
+    "6": [
+        [
+            "distribut graphic"
+        ],
+        [
+            "data structur"
+        ],
+        [
+            "program"
+        ],
+        [
+            "program languag"
+        ],
+        [
+            "3d graphic librari"
+        ],
+        [
+            "data distribut"
+        ],
+        [
+            "duplic databas"
+        ],
+        [
+            "callback"
+        ],
+        [
+            "distribut applic"
+        ],
+        [
+            "replic object"
+        ],
+        [
+            "java"
+        ],
+        [
+            "object-ori librari"
+        ],
+        [
+            "3d graphic applic"
+        ],
+        [
+            "librari"
+        ],
+        [
+            "object orient"
+        ],
+        [
+            "object-ori graphic"
+        ],
+        [
+            "multi-us interact"
+        ],
+        [
+            "interact graphic applic"
+        ],
+        [
+            "distribut process"
+        ],
+        [
+            "multi-thread program"
+        ],
+        [
+            "graphic object"
+        ],
+        [
+            "client-serv approach"
+        ],
+        [
+            "chang notif"
+        ],
+        [
+            "client-serv"
+        ],
+        [
+            "local variat"
+        ],
+        [
+            "object represent"
+        ],
+        [
+            "distribut virtual environ"
+        ],
+        [
+            "repo-3d"
+        ],
+        [
+            "data share"
+        ],
+        [
+            "distribut share memori"
+        ],
+        [
+            "properti"
+        ],
+        [
+            "share memori"
+        ],
+        [
+            "object-ori"
+        ],
+        [
+            "prototyp"
+        ],
+        [
+            "3d graphic"
+        ],
+        [
+            "heterogen workstat"
+        ],
+        [
+            "syncronis"
+        ],
+        [
+            "shared-data object model"
+        ],
+        [
+            "distribut system"
+        ]
+    ],
+    "60": [
+        [
+            "naiv bay classifi"
+        ],
+        [
+            "experi result"
+        ],
+        [
+            "inform gain"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "navig queri classif"
+        ],
+        [
+            "linear svm featur rank"
+        ],
+        [
+            "stochast gradient boost tree"
+        ],
+        [
+            "support vector machin"
+        ],
+        [
+            "gradient boost tree"
+        ],
+        [
+            "multipl level featur system"
+        ],
+        [
+            "navig and inform queri"
+        ],
+        [
+            "maximum entropi classifi"
+        ]
+    ],
+    "61": [
+        [
+            "function verif"
+        ],
+        [
+            "bayesian network"
+        ],
+        [
+            "condit probabl"
+        ],
+        [
+            "most probabl explan"
+        ],
+        [
+            "bidirect infer"
+        ],
+        [
+            "design under test"
+        ],
+        [
+            "maxim a posteriori"
+        ],
+        [
+            "coverag direct test gener"
+        ],
+        [
+            "coverag analysi"
+        ],
+        [
+            "markov chain"
+        ],
+        [
+            "dynam bayesian network"
+        ],
+        [
+            "coverag model"
+        ]
+    ],
+    "62": [
+        [
+            "sql data type"
+        ],
+        [
+            "primari index entri"
+        ],
+        [
+            "massiv master"
+        ],
+        [
+            "navig"
+        ],
+        [
+            "html master index"
+        ],
+        [
+            "autom"
+        ],
+        [
+            "intern develop format"
+        ],
+        [
+            "index"
+        ],
+        [
+            "search"
+        ],
+        [
+            "onlin inform"
+        ],
+        [
+            "book index"
+        ],
+        [
+            "index problem"
+        ],
+        [
+            "human factor"
+        ],
+        [
+            "inform retriev method"
+        ],
+        [
+            "drop-down select of term"
+        ]
+    ],
+    "63": [
+        [
+            "lift"
+        ],
+        [
+            "standard deviat"
+        ],
+        [
+            "algorithmn"
+        ],
+        [
+            "euclidean distanc"
+        ],
+        [
+            "perform metric"
+        ],
+        [
+            "squar error"
+        ],
+        [
+            "cross entropi"
+        ],
+        [
+            "svm"
+        ],
+        [
+            "roc"
+        ],
+        [
+            "order metric"
+        ],
+        [
+            "supervis learn"
+        ],
+        [
+            "precis"
+        ],
+        [
+            "pairwis"
+        ],
+        [
+            "backpropag"
+        ],
+        [
+            "metric"
+        ],
+        [
+            "recal"
+        ],
+        [
+            "perform evalu"
+        ]
+    ],
+    "64": [
+        [
+            "infer"
+        ],
+        [
+            "databas"
+        ],
+        [
+            "infer channel"
+        ],
+        [
+            "multilevel secur"
+        ],
+        [
+            "encrypt"
+        ],
+        [
+            "privaci"
+        ],
+        [
+            "polici"
+        ],
+        [
+            "secur"
+        ],
+        [
+            "buffer overflow"
+        ],
+        [
+            "access control"
+        ],
+        [
+            "cia"
+        ],
+        [
+            "polyinstanti"
+        ],
+        [
+            "authent"
+        ]
+    ],
+    "65": [
+        [
+            "single-hop"
+        ],
+        [
+            "bluetooth network"
+        ],
+        [
+            "const updat cost"
+        ],
+        [
+            "scalabl mac assign"
+        ],
+        [
+            "network topolog"
+        ],
+        [
+            "bluetooth"
+        ],
+        [
+            "self-rout"
+        ],
+        [
+            "self-rout scatternet"
+        ],
+        [
+            "easi updat"
+        ],
+        [
+            "ad hoc network"
+        ],
+        [
+            "equal traffic"
+        ],
+        [
+            "scatternet format"
+        ],
+        [
+            "bruijn graph"
+        ],
+        [
+            "de bruijn graph"
+        ],
+        [
+            "low diamet"
+        ]
+    ],
+    "66": [
+        [
+            "implic"
+        ],
+        [
+            "survey"
+        ],
+        [
+            "develop stage"
+        ],
+        [
+            "measur"
+        ],
+        [
+            "statist method"
+        ],
+        [
+            "author"
+        ],
+        [
+            "statist survey"
+        ],
+        [
+            "e-commerc"
+        ],
+        [
+            "china"
+        ],
+        [
+            "e-commerc statist"
+        ],
+        [
+            "statist"
+        ],
+        [
+            "definit of e-commerc"
+        ]
+    ],
+    "67": [
+        [
+            "health inform system"
+        ],
+        [
+            "the ideal speech situat"
+        ],
+        [
+            "conduc environ"
+        ],
+        [
+            "moral code or norm"
+        ],
+        [
+            "dualiti of structur"
+        ],
+        [
+            "interpret scheme"
+        ],
+        [
+            "commun action"
+        ],
+        [
+            "marginalis"
+        ],
+        [
+            "critic social theori in is design"
+        ],
+        [
+            "commun monitor system"
+        ],
+        [
+            "structur theori"
+        ]
+    ],
+    "68": [
+        [
+            "network address translat"
+        ],
+        [
+            "planets overlay monitor system"
+        ],
+        [
+            "nat"
+        ],
+        [
+            "cluster"
+        ],
+        [
+            "planets"
+        ],
+        [
+            "bayesian network"
+        ],
+        [
+            "inter-a tcp failur probabl"
+        ],
+        [
+            "fault diagnosi"
+        ],
+        [
+            "tcp overlay path diagnosi"
+        ],
+        [
+            "passiv diagnosi"
+        ],
+        [
+            "bayesian network model"
+        ],
+        [
+            "tcp overlay connect"
+        ],
+        [
+            "codeen traffic pattern"
+        ],
+        [
+            "activ probe for diagnosi"
+        ]
+    ],
+    "69": [
+        [
+            "dam"
+        ],
+        [
+            "xml databas"
+        ],
+        [
+            "metadata"
+        ],
+        [
+            "nativ xml"
+        ],
+        [
+            "heterogen data"
+        ],
+        [
+            "digit imag"
+        ],
+        [
+            "proof of concept"
+        ],
+        [
+            "semi structur data"
+        ],
+        [
+            "keyword search"
+        ],
+        [
+            "digit asset manag"
+        ],
+        [
+            "databas"
+        ],
+        [
+            "storag and retriev"
+        ],
+        [
+            "multimedia"
+        ]
+    ],
+    "7": [
+        [
+            "fair share"
+        ],
+        [
+            "virtual slave"
+        ],
+        [
+            "master unit"
+        ],
+        [
+            "slave unit"
+        ],
+        [
+            "rendezv point"
+        ],
+        [
+            "traffic adapt"
+        ],
+        [
+            "scatternet presenc fraction"
+        ],
+        [
+            "effici"
+        ],
+        [
+            "scatternet"
+        ],
+        [
+            "schedul algorithm"
+        ],
+        [
+            "piconet presenc fraction"
+        ],
+        [
+            "gateway slave traffic"
+        ],
+        [
+            "distribut algorithm"
+        ],
+        [
+            "schedul"
+        ],
+        [
+            "round robin poll"
+        ],
+        [
+            "bluetooth technolog"
+        ],
+        [
+            "hold mode"
+        ],
+        [
+            "alloc of bandwidth"
+        ],
+        [
+            "non-uniform traffic"
+        ],
+        [
+            "slave"
+        ],
+        [
+            "non-gateway slave traffic"
+        ],
+        [
+            "bandwidth util"
+        ],
+        [
+            "round robin"
+        ],
+        [
+            "chang traffic"
+        ],
+        [
+            "traffic depend schedul"
+        ],
+        [
+            "traffic rate"
+        ],
+        [
+            "inform exchang"
+        ],
+        [
+            "schedul scheme"
+        ],
+        [
+            "bluetooth"
+        ],
+        [
+            "schedul of gateway"
+        ],
+        [
+            "heurist"
+        ],
+        [
+            "poll algorithm"
+        ],
+        [
+            "fair"
+        ],
+        [
+            "time-divis multiplex"
+        ],
+        [
+            "gateway"
+        ],
+        [
+            "master"
+        ],
+        [
+            "blueooth"
+        ],
+        [
+            "piconet"
+        ]
+    ],
+    "70": [
+        [
+            "lexic chain"
+        ],
+        [
+            "topic import"
+        ],
+        [
+            "web directori"
+        ],
+        [
+            "topic hierachi"
+        ],
+        [
+            "rank"
+        ],
+        [
+            "score"
+        ],
+        [
+            "directoryrank"
+        ],
+        [
+            "inform retriev"
+        ],
+        [
+            "pagerank"
+        ],
+        [
+            "semant similar"
+        ],
+        [
+            "rank metric"
+        ]
+    ],
+    "71": [
+        [
+            "focal term"
+        ],
+        [
+            "data-intens servic"
+        ],
+        [
+            "bias discoveri"
+        ],
+        [
+            "data-intens web servic"
+        ],
+        [
+            "rank"
+        ],
+        [
+            "web servic discoveri"
+        ],
+        [
+            "query-bias probe"
+        ],
+        [
+            "source-bias probe"
+        ]
+    ],
+    "72": [
+        [
+            "distanc measur"
+        ],
+        [
+            "content-bas video retriev"
+        ],
+        [
+            "visual inform retriev"
+        ],
+        [
+            "human similar percept"
+        ],
+        [
+            "mpeg-7 descriptor"
+        ],
+        [
+            "quantis"
+        ],
+        [
+            "content-bas imag retriev"
+        ],
+        [
+            "similar percept"
+        ],
+        [
+            "similar measur"
+        ],
+        [
+            "mpeg-7"
+        ]
+    ],
+    "73": [
+        [
+            "interact"
+        ],
+        [
+            "robot attribut"
+        ],
+        [
+            "agenc"
+        ],
+        [
+            "feel"
+        ],
+        [
+            "languag"
+        ],
+        [
+            "intellig creatur"
+        ],
+        [
+            "zoo-morpholog autonom mobil robot"
+        ],
+        [
+            "perceiv attitud"
+        ],
+        [
+            "hci"
+        ],
+        [
+            "human attitud"
+        ],
+        [
+            "multi-mod interfac"
+        ],
+        [
+            "essenc"
+        ],
+        [
+            "behavior scienc"
+        ],
+        [
+            "robot"
+        ]
+    ],
+    "74": [
+        [
+            "adapt algorithm"
+        ],
+        [
+            "adapt algorithmn"
+        ],
+        [
+            "crawler"
+        ],
+        [
+            "keyword queri"
+        ],
+        [
+            "queri select"
+        ],
+        [
+            "hidden web crawl"
+        ],
+        [
+            "hidden web"
+        ],
+        [
+            "keyword select"
+        ],
+        [
+            "potenti bia"
+        ],
+        [
+            "deep web"
+        ],
+        [
+            "accur languag model"
+        ],
+        [
+            "coverag"
+        ],
+        [
+            "effici"
+        ],
+        [
+            "deep web crawler"
+        ]
+    ],
+    "75": [
+        [
+            "annot"
+        ],
+        [
+            "languag extens"
+        ],
+        [
+            "meta-aspectj"
+        ],
+        [
+            "simplic"
+        ],
+        [
+            "java"
+        ],
+        [
+            "domain-specif languag"
+        ]
+    ],
+    "76": [
+        [
+            "queri log"
+        ],
+        [
+            "web search"
+        ],
+        [
+            "topic categori"
+        ],
+        [
+            "queri traffic"
+        ],
+        [
+            "queri stream"
+        ],
+        [
+            "log analysi"
+        ],
+        [
+            "queri log analysi"
+        ],
+        [
+            "frequenc distribut"
+        ]
+    ],
+    "77": [
+        [
+            "gda"
+        ],
+        [
+            "discrimin analysi"
+        ],
+        [
+            "multi-class classif"
+        ],
+        [
+            "multi-class text categor"
+        ],
+        [
+            "gsvd"
+        ],
+        [
+            "svm"
+        ],
+        [
+            "text categor"
+        ]
+    ],
+    "78": [
+        [
+            "phrase queri"
+        ],
+        [
+            "phrase queri evalu"
+        ],
+        [
+            "invert index"
+        ],
+        [
+            "index represent"
+        ],
+        [
+            "queri evalu"
+        ],
+        [
+            "evalu effici"
+        ],
+        [
+            "common word"
+        ],
+        [
+            "index"
+        ],
+        [
+            "stop"
+        ],
+        [
+            "nextword index"
+        ]
+    ],
+    "79": [
+        [
+            "shape classif"
+        ],
+        [
+            "similar queri"
+        ],
+        [
+            "databas"
+        ],
+        [
+            "fingerprint"
+        ],
+        [
+            "queri"
+        ],
+        [
+            "index techniqu"
+        ],
+        [
+            "handwrit recognit"
+        ],
+        [
+            "similar retriev"
+        ],
+        [
+            "imag databas"
+        ],
+        [
+            "search"
+        ],
+        [
+            "fourier descriptor"
+        ],
+        [
+            "shape retriev"
+        ],
+        [
+            "effici"
+        ],
+        [
+            "non textual object"
+        ]
+    ],
+    "8": [
+        [
+            "comput geometri"
+        ],
+        [
+            "opac"
+        ],
+        [
+            "adapt dens voxel"
+        ],
+        [
+            "surfac represent"
+        ],
+        [
+            "render cost"
+        ],
+        [
+            "render pipelin"
+        ],
+        [
+            "pixel shader"
+        ],
+        [
+            "hausdorff distanc"
+        ],
+        [
+            "gpu"
+        ],
+        [
+            "polygon model"
+        ],
+        [
+            "distanc transform"
+        ],
+        [
+            "slice-bas approach"
+        ],
+        [
+            "hausforff distanc"
+        ],
+        [
+            "3d model"
+        ],
+        [
+            "raster"
+        ],
+        [
+            "voxel"
+        ],
+        [
+            "surfac voxel"
+        ],
+        [
+            "model"
+        ],
+        [
+            "render"
+        ],
+        [
+            "polygon object"
+        ],
+        [
+            "volum construct"
+        ],
+        [
+            "triangl"
+        ],
+        [
+            "object represent"
+        ],
+        [
+            "comput graphic"
+        ],
+        [
+            "distanc field"
+        ],
+        [
+            "geometr represent"
+        ],
+        [
+            "infinitud"
+        ],
+        [
+            "3d slicer"
+        ],
+        [
+            "local distanc field"
+        ],
+        [
+            "gpu-bas 3d slicer approach"
+        ],
+        [
+            "gpu comput"
+        ],
+        [
+            "volumetr represent"
+        ],
+        [
+            "graphic hardwar"
+        ]
+    ],
+    "80": [
+        [
+            "isomorph"
+        ],
+        [
+            "graph travers"
+        ],
+        [
+            "queri process"
+        ],
+        [
+            "semant web"
+        ],
+        [
+            "properti sequenc"
+        ],
+        [
+            "complex data relationship"
+        ],
+        [
+            "rdf"
+        ],
+        [
+            "semant web queri"
+        ],
+        [
+            "relationship"
+        ],
+        [
+            "semant associ"
+        ],
+        [
+            "autom"
+        ],
+        [
+            "root direct path"
+        ],
+        [
+            "ai"
+        ],
+        [
+            "analysi"
+        ]
+    ],
+    "81": [
+        [
+            "low-pow mode"
+        ],
+        [
+            "query-direct energi manag"
+        ],
+        [
+            "multi-queri optim"
+        ],
+        [
+            "query-direct scheme"
+        ],
+        [
+            "hardwar energi scheme"
+        ],
+        [
+            "energi optim"
+        ],
+        [
+            "memory-resid databas"
+        ],
+        [
+            "power consumpt"
+        ],
+        [
+            "queri restructur"
+        ],
+        [
+            "energi"
+        ],
+        [
+            "bank memori"
+        ],
+        [
+            "databas"
+        ],
+        [
+            "dram"
+        ]
+    ],
+    "82": [
+        [
+            "spark ada"
+        ],
+        [
+            "safeti"
+        ],
+        [
+            "integr"
+        ],
+        [
+            "bell-lapadula"
+        ],
+        [
+            "spark"
+        ],
+        [
+            "secur level"
+        ],
+        [
+            "dolev-yao"
+        ],
+        [
+            "secur"
+        ],
+        [
+            "subprogram"
+        ],
+        [
+            "inform flow"
+        ]
+    ],
+    "83": [
+        [
+            "coordin"
+        ],
+        [
+            "multi-ag system"
+        ],
+        [
+            "autonomi"
+        ],
+        [
+            "entropi"
+        ],
+        [
+            "pheromon"
+        ],
+        [
+            "thermodynam"
+        ],
+        [
+            "self-organ"
+        ]
+    ],
+    "84": [
+        [
+            "wireless sensor network"
+        ],
+        [
+            "entropi"
+        ],
+        [
+            "local"
+        ],
+        [
+            "information-direct resourc manag"
+        ],
+        [
+            "inform fusion"
+        ],
+        [
+            "target track"
+        ],
+        [
+            "shannon entropi"
+        ],
+        [
+            "target local"
+        ],
+        [
+            "sensor select"
+        ],
+        [
+            "mutual inform"
+        ],
+        [
+            "heurist"
+        ]
+    ],
+    "85": [
+        [
+            "experiment"
+        ],
+        [
+            "algorithm"
+        ],
+        [
+            "site specif domain"
+        ],
+        [
+            "crawl"
+        ],
+        [
+            "local search engin"
+        ],
+        [
+            "global pagerank"
+        ],
+        [
+            "node select"
+        ]
+    ],
+    "86": [
+        [
+            "social network"
+        ],
+        [
+            "recommend system"
+        ],
+        [
+            "data mine"
+        ],
+        [
+            "collabor filter"
+        ],
+        [
+            "commun"
+        ],
+        [
+            "similar measur"
+        ],
+        [
+            "onlin commun"
+        ]
+    ],
+    "87": [
+        [
+            "visual"
+        ],
+        [
+            "rb++"
+        ],
+        [
+            "user interfac"
+        ],
+        [
+            "satisfact"
+        ],
+        [
+            "interfac design"
+        ],
+        [
+            "inform brows"
+        ],
+        [
+            "user satisfact"
+        ],
+        [
+            "search"
+        ],
+        [
+            "facet categori structur"
+        ],
+        [
+            "effici"
+        ],
+        [
+            "interact pattern with interfac"
+        ],
+        [
+            "inform search"
+        ],
+        [
+            "categori overview"
+        ],
+        [
+            "visual display"
+        ],
+        [
+            "dynam queri"
+        ],
+        [
+            "relat browser++"
+        ],
+        [
+            "model user interact"
+        ],
+        [
+            "interact system"
+        ],
+        [
+            "user studi"
+        ],
+        [
+            "inform storag and retriev"
+        ],
+        [
+            "effect"
+        ],
+        [
+            "brows"
+        ],
+        [
+            "facet"
+        ],
+        [
+            "brows and search interfac"
+        ],
+        [
+            "human factor"
+        ]
+    ],
+    "88": [
+        [
+            "depend model"
+        ],
+        [
+            "cluster"
+        ],
+        [
+            "agglom cluster with time decay"
+        ],
+        [
+            "event thread"
+        ],
+        [
+            "news topic model"
+        ],
+        [
+            "meaning and effici analysi and present of news"
+        ],
+        [
+            "intellig inform retriev"
+        ],
+        [
+            "topic detect and track"
+        ],
+        [
+            "nearest parent model"
+        ],
+        [
+            "thread"
+        ],
+        [
+            "depend"
+        ],
+        [
+            "complete-link model"
+        ],
+        [
+            "tempor local of news stori"
+        ],
+        [
+            "inform brows and organ"
+        ],
+        [
+            "inform search"
+        ],
+        [
+            "event"
+        ]
+    ],
+    "89": [
+        [
+            "hybrid mutat"
+        ],
+        [
+            "particl swarm"
+        ],
+        [
+            "kernel method"
+        ],
+        [
+            "evolut strategi"
+        ],
+        [
+            "kernel"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "statist learn theori"
+        ],
+        [
+            "svm"
+        ],
+        [
+            "support vector machin"
+        ],
+        [
+            "evolutionari comput"
+        ],
+        [
+            "larg margin"
+        ]
+    ],
+    "9": [
+        [
+            "remot object"
+        ],
+        [
+            "implement"
+        ],
+        [
+            "middlewar interoper"
+        ],
+        [
+            "extens"
+        ],
+        [
+            "object orient"
+        ],
+        [
+            "distiribut applic"
+        ],
+        [
+            "middlewar architectur"
+        ],
+        [
+            "ubiquit comput"
+        ],
+        [
+            "extens and reconfigur middlewar"
+        ],
+        [
+            "fault toler corba"
+        ],
+        [
+            "iiop"
+        ],
+        [
+            "middlewar platform"
+        ],
+        [
+            "flexibl and extens object middlewar"
+        ],
+        [
+            "object refer"
+        ],
+        [
+            "corba"
+        ],
+        [
+            "distribut object"
+        ],
+        [
+            "integr"
+        ],
+        [
+            "softwar architectur for middlewar"
+        ],
+        [
+            "profil manag"
+        ],
+        [
+            "ior"
+        ],
+        [
+            "middlewar system"
+        ],
+        [
+            "encapsul"
+        ],
+        [
+            "interoper"
+        ],
+        [
+            "flexibl"
+        ],
+        [
+            "refer manag"
+        ],
+        [
+            "middlewar"
+        ]
+    ],
+    "90": [
+        [
+            "interact effort"
+        ],
+        [
+            "fan-out"
+        ],
+        [
+            "multipl robot"
+        ],
+        [
+            "activ time"
+        ],
+        [
+            "human-robot interact"
+        ],
+        [
+            "interact time"
+        ],
+        [
+            "user interfac"
+        ],
+        [
+            "neglect time"
+        ],
+        [
+            "fan-out equat"
+        ]
+    ],
+    "91": [
+        [
+            "string sort"
+        ],
+        [
+            "order-preserv compress scheme"
+        ],
+        [
+            "data collect"
+        ],
+        [
+            "compress scheme"
+        ],
+        [
+            "compress ratio"
+        ],
+        [
+            "random access"
+        ],
+        [
+            "linear time algorithm"
+        ],
+        [
+            "sort algorithm"
+        ],
+        [
+            "key of bound length"
+        ],
+        [
+            "word-ram sort algorithm"
+        ]
+    ],
+    "92": [
+        [
+            "optimis"
+        ],
+        [
+            "dynam memori"
+        ],
+        [
+            "graphic"
+        ],
+        [
+            "cach"
+        ],
+        [
+            "frame buffer"
+        ],
+        [
+            "vram"
+        ],
+        [
+            "3d graphic hardwar"
+        ],
+        [
+            "pixel process"
+        ],
+        [
+            "render"
+        ],
+        [
+            "sram"
+        ],
+        [
+            "dram"
+        ],
+        [
+            "pixel cach"
+        ],
+        [
+            "z-compar"
+        ],
+        [
+            "video output bandwidth"
+        ],
+        [
+            "fbram"
+        ],
+        [
+            "parallel graphic algorithm"
+        ],
+        [
+            "memori"
+        ],
+        [
+            "rgba blend"
+        ],
+        [
+            "z-buffer"
+        ],
+        [
+            "dynam random access memori"
+        ],
+        [
+            "acceler"
+        ],
+        [
+            "3d graphic"
+        ],
+        [
+            "dynam memori chip"
+        ],
+        [
+            "video buffer"
+        ],
+        [
+            "render rate"
+        ],
+        [
+            "z buffer"
+        ]
+    ],
+    "94": [
+        [
+            "decis tree"
+        ],
+        [
+            "natur languag process applic"
+        ],
+        [
+            "featur"
+        ],
+        [
+            "focus name entiti recognit"
+        ],
+        [
+            "machin learn"
+        ],
+        [
+            "linguist featur"
+        ],
+        [
+            "classif method"
+        ],
+        [
+            "statist model"
+        ],
+        [
+            "text summar"
+        ],
+        [
+            "natur languag process"
+        ],
+        [
+            "entiti recognit"
+        ],
+        [
+            "robust risk minim"
+        ],
+        [
+            "machin learn approach"
+        ],
+        [
+            "topic identif"
+        ],
+        [
+            "summar"
+        ],
+        [
+            "rank"
+        ],
+        [
+            "naiv bay"
+        ],
+        [
+            "inform retriev"
+        ],
+        [
+            "electron document"
+        ],
+        [
+            "sentenc extract"
+        ],
+        [
+            "name entiti"
+        ],
+        [
+            "automat summar"
+        ],
+        [
+            "main topic"
+        ],
+        [
+            "classif model"
+        ]
+    ],
+    "95": [
+        [
+            "compil verif"
+        ],
+        [
+            "closur"
+        ],
+        [
+            "oper semant"
+        ],
+        [
+            "translat scheme"
+        ],
+        [
+            "abstract machin"
+        ],
+        [
+            "function program"
+        ],
+        [
+            "lazi evalu"
+        ],
+        [
+            "haskel compil"
+        ],
+        [
+            "stepwis deriv"
+        ],
+        [
+            "stg machin"
+        ]
+    ],
+    "96": [
+        [
+            "queri classif"
+        ],
+        [
+            "search engin"
+        ],
+        [
+            "bridg classifi"
+        ],
+        [
+            "ensembl classifi"
+        ],
+        [
+            "kddcup 2005"
+        ],
+        [
+            "map function"
+        ],
+        [
+            "intermedi categori"
+        ],
+        [
+            "web queri classif"
+        ],
+        [
+            "similar distribut"
+        ],
+        [
+            "queri enrich"
+        ],
+        [
+            "match approach"
+        ],
+        [
+            "target categori"
+        ],
+        [
+            "taxonomi"
+        ],
+        [
+            "categori select"
+        ]
+    ],
+    "97": [
+        [
+            "focus crawler"
+        ],
+        [
+            "collabor crawler"
+        ],
+        [
+            "geograph focus crawl"
+        ],
+        [
+            "problem of alias and ambigu"
+        ],
+        [
+            "hash base collabor"
+        ],
+        [
+            "scalabl"
+        ],
+        [
+            "ip address base"
+        ],
+        [
+            "geo-focu"
+        ],
+        [
+            "anchor text"
+        ],
+        [
+            "url base"
+        ],
+        [
+            "full content base"
+        ],
+        [
+            "qualiti issu"
+        ],
+        [
+            "collabor crawl"
+        ],
+        [
+            "crawl strategi"
+        ],
+        [
+            "search engin"
+        ],
+        [
+            "evalu criteria"
+        ],
+        [
+            "geograph entiti"
+        ],
+        [
+            "search local"
+        ],
+        [
+            "geo-coverag"
+        ],
+        [
+            "geograph local"
+        ],
+        [
+            "geograph node"
+        ],
+        [
+            "pattern match"
+        ],
+        [
+            "extract url"
+        ],
+        [
+            "normal and disambigu of citi name"
+        ]
+    ],
+    "98": [
+        [
+            "3d graphic applic"
+        ],
+        [
+            "mobil devic"
+        ],
+        [
+            "measur"
+        ],
+        [
+            "mechan"
+        ],
+        [
+            "embed 3d graphic"
+        ],
+        [
+            "api"
+        ],
+        [
+            "3d graphic benchmark"
+        ],
+        [
+            "statist"
+        ],
+        [
+            "opengl"
+        ],
+        [
+            "triangl"
+        ],
+        [
+            "graalbench"
+        ],
+        [
+            "mobil environ"
+        ],
+        [
+            "bottleneck"
+        ],
+        [
+            "workload"
+        ],
+        [
+            "mobil phone"
+        ],
+        [
+            "benchmark"
+        ],
+        [
+            "architectur"
+        ],
+        [
+            "acceler"
+        ],
+        [
+            "3d graphic"
+        ],
+        [
+            "pipelin"
+        ],
+        [
+            "embed 3d graphic architectur"
+        ],
+        [
+            "workload character"
+        ],
+        [
+            "transform and light"
+        ],
+        [
+            "real-tim"
+        ],
+        [
+            "embed system"
+        ],
+        [
+            "raster"
+        ],
+        [
+            "perform"
+        ],
+        [
+            "unit"
+        ]
+    ],
+    "99": [
+        [
+            "cellular network"
+        ],
+        [
+            "wirel network"
+        ],
+        [
+            "handoff trigger tabl"
+        ],
+        [
+            "wireless commun"
+        ],
+        [
+            "vertic handoff"
+        ],
+        [
+            "wlan"
+        ],
+        [
+            "integr network"
+        ],
+        [
+            "3g"
+        ]
+    ]
+}
